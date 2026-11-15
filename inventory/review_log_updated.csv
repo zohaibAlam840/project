@@ -1,0 +1,50 @@
+﻿family,method,severity,issue,status
+SLC4,,review,Confirm PAHG family ID; folder number is only a candidate.,resolved: official PAHG page matched
+SLC4,,gap,Supplied NEXUS is an alignment; NEXUS tree files remain to be created.,open
+SLC4,ML,naming,Original Newick has double .nwk extension; working copy has standard name.,working copy named
+SLC4,NJ,naming,Original Newick has double .nwk extension; working copy has standard name.,working copy named
+COL,,review,Confirm PAHG family ID; folder number is only a candidate.,resolved: official PAHG page matched
+COL,,gap,Supplied NEXUS is an alignment; NEXUS tree files remain to be created.,open
+ERBB,,review,Confirm PAHG family ID; folder number is only a candidate.,resolved: official PAHG page matched
+ERBB,,gap,Supplied NEXUS is an alignment; NEXUS tree files remain to be created.,open
+ABLIM,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+ABLIM,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+ABLIM,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+COL_ALPHA,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+COL_ALPHA,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+COL_ALPHA,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+COL_ALPHA,,review,PAHG lists collagen alpha (ID 92) separately from fibrillar collagens (ID 2).,resolved: distinct PAHG entries
+CDKN,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+CDKN,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+CDKN,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+DUSP,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+DUSP,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+DUSP,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+FZD,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+FZD,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+FZD,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+GLI,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+GLI,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+GRI,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+GRI,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+GRI,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+LAPTM,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+LAPTM,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+NFE2,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+NFE2,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+NFE2,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+REEP,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+REEP,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+RNF,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+RNF,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+SLC26,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+SLC26,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+SLC26,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+SH3RF,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+SH3RF,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+SH3RF,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+S1PR,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+S1PR,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+S1PR,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+WDR62,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
+WDR62,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open

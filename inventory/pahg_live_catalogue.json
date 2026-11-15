@@ -1,0 +1,2216 @@
+{
+  "source": "https://www.pahgncb.com/genomedb/public/genefamilies",
+  "retrieved": "2026-11-15",
+  "rows": [
+    {
+      "cells": [
+        "Acid Sensing Ion Channel Family (ASIC)",
+        "2013",
+        "20",
+        "Ligand-gated sodium,Channel activity, Protein binding,Ion channel activity.",
+        "60"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/23"
+    },
+    {
+      "cells": [
+        "Actin Binding LIM protein (ABLIM)_(AJUBA)_(ZYX)",
+        "2015",
+        "11",
+        "Actin binding,Zinc ion binding,Metal ion binding,Protein binding",
+        "66"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/81"
+    },
+    {
+      "cells": [
+        "Actin filament associated protein (AFAP1)",
+        "2015",
+        "28",
+        "Actin binding, SH2 and SH3 domain binding, Protein tyrosine kinase activator activity",
+        "71"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/86"
+    },
+    {
+      "cells": [
+        "Acyl-CoA Synthetase Family (ACSL)_(ACSBG)",
+        "2015",
+        "23",
+        "Long-chain fatty acid-CoA ligase activity,ATP binding, Nucleotide binding ,Ligase activity",
+        "80"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/82"
+    },
+    {
+      "cells": [
+        "ADAM Metallopeptidase Domain (ADAM)",
+        "2015",
+        "18",
+        "Metalloendopeptidase activity, ion binding, Protein binding",
+        "123"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/83"
+    },
+    {
+      "cells": [
+        "ADAM Metallopeptidase with Thrombospondin Type 1 Motif (ADAMTS)",
+        "2015",
+        "16",
+        "Peptidase activity, Heparin binding, Metal ion binding",
+        "106"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/84"
+    },
+    {
+      "cells": [
+        "Adhesion G Protein-Coupled Receptors, subfamily A (ADGRA)",
+        "2015",
+        "27",
+        "G-protein coupled receptor activity,Receptor activity,Signal transducer activity",
+        "59"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/109"
+    },
+    {
+      "cells": [
+        "Adrenoceptor alpha (ADRA)_(HTR)",
+        "2015",
+        "21",
+        "Signal transducer activity, Receptor activity, Serotonin binding",
+        "118"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/85"
+    },
+    {
+      "cells": [
+        "Ankyrin (ANK)",
+        "2015",
+        "21",
+        "Protein binding, Structural constituent of cytoskeleton",
+        "74"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/87"
+    },
+    {
+      "cells": [
+        "Annexins (ANXA)",
+        "2015",
+        "18",
+        "Protein binding, Calcium ion binding, Phospholipase inhibitor activity, Single-stranded RNA and DNA binding",
+        "146"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/88"
+    },
+    {
+      "cells": [
+        "Antizyme Inhibitor (AZIN)_(ODC)",
+        "2017",
+        "25",
+        "Protein binding, Ornithine decarboxylase activator activity",
+        "55"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/238"
+    },
+    {
+      "cells": [
+        "ArfGAP(Ankyrin Repeat and PH Domain) (ACAP)_(AGAP)_(ARAP)_(ASAP)",
+        "2015",
+        "14",
+        "ARF GTPase activator activity,Metal ion binding,Zinc ion binding,Protein binding",
+        "124"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/89"
+    },
+    {
+      "cells": [
+        "AT-rich interaction domain containing (ARID)",
+        "2016",
+        "23",
+        "Regulation of transcription from RNA polymerase II promoter, Chromatin remodeling.",
+        "58"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/180"
+    },
+    {
+      "cells": [
+        "ATP binding cassette subfamily A,G (ABCA, ABCG)",
+        "2014",
+        "18",
+        "ATPase activity, nucleotide binding, ATPase activity coupled to transmembr-ane movement of substances, ATP binding, Cholesterol absorption, transport.",
+        "142"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/44"
+    },
+    {
+      "cells": [
+        "ATP synthase membrane subunit C (ATP5MC)",
+        "2010",
+        "18",
+        "Lipid binding, Hydrogen ion transmembrane transporter activity, Transporter activity, Protein binding.",
+        "29"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/12"
+    },
+    {
+      "cells": [
+        "ATPase H+ transporting V0 Subunit A (ATP6V0A)",
+        "2013",
+        "23",
+        "Hydrogen ion transmembrane transporter activity, ATPase binding, Insulin receptor signaling pathway, ATP hydrolysis coupled proton transport.",
+        "74"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/24"
+    },
+    {
+      "cells": [
+        "ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G (ATP6V1G)",
+        "2016",
+        "26",
+        "Hydrogen-exporting ATPase activity, phosphorylative mechanism.",
+        "40"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/188"
+    },
+    {
+      "cells": [
+        "Beta-gamma crystallins (CRYB, CRYG)",
+        "2014",
+        "19",
+        "Structural constituent of eye lens, Visual perception.",
+        "110"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/48"
+    },
+    {
+      "cells": [
+        "Bromodomain and extra-terminal domain family (BRD)",
+        "2016",
+        "24",
+        "Plays a key role in spermatogenesis, Involved in meiotic and post-meiotic cells by binding to acetylated histones at the promoter of specific meiotic and post-meiotic genes, facilitating their activation at the appropriate time.",
+        "53"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/201"
+    },
+    {
+      "cells": [
+        "Bromodomain containing (BRD)_(BAZ)_(BPTF)_(KAT)_(CERC)",
+        "2014",
+        "27",
+        "Zinc ion binding, DNA binding, Ubiquitin-protein ligase activity, Histone acetyltransferse activity, Transcription cofactor activity",
+        "136"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/45"
+    },
+    {
+      "cells": [
+        "Calcium binding and coiled-coil domain (CALCOCO)",
+        "2010",
+        "21",
+        "Transcription coactivator activity, Protein binding, Protein homodimerization activity.",
+        "41"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/13"
+    },
+    {
+      "cells": [
+        "Calcium voltage-gated channel auxiliary beta subunits (CACNB)",
+        "2013",
+        "14",
+        "Voltage-gated ion channel activity,High voltage-gated calcium channel activity, Protein binding.",
+        "46"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/25"
+    },
+    {
+      "cells": [
+        "Calcium-calmodulin-dependent protein kinases (CAMK)",
+        "2015",
+        "11",
+        "ATP binding, Calmodulin-dependent protein kinase activity, Protein serine/threonine kinase activity, Nucleotide binding",
+        "98"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/90"
+    },
+    {
+      "cells": [
+        "Calmodulin regulated spectrin-associated protein family (CAMSAP)",
+        "2016",
+        "23",
+        "Protein binding.",
+        "63"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/189"
+    },
+    {
+      "cells": [
+        "CAP-GLY domain containing linker protein (CLIP)",
+        "2013",
+        "28",
+        "Nucleic acid binding, Protein homodimerization activity, Microtubule binding, Positive regulation of microtubule polymerization.",
+        "89"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/27"
+    },
+    {
+      "cells": [
+        "Carbohydrate sulfotransferases (CHST)",
+        "2013",
+        "17",
+        "Sulfotransferase activity, Transferase activity, Cell adhesion.",
+        "84"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/26"
+    },
+    {
+      "cells": [
+        "Cellular Communication Network Family (CCN)",
+        "2011",
+        "25",
+        "Protein binding, Insulin-like growth factor binding, Growth factor activity",
+        "63"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/79"
+    },
+    {
+      "cells": [
+        "Chaperonins (CCT)",
+        "2014",
+        "27",
+        "Unfolded protein binding, ATP binding, Catalytic activity, The complex folds various proteins including actin and tubulin.",
+        "171"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/46"
+    },
+    {
+      "cells": [
+        "Chloride intracellular channels (CLIC)",
+        "2016",
+        "27",
+        "Form chloride ion channels. channel activity depends on the ph. Involved in regulation of the cell cycle.",
+        "69"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/198"
+    },
+    {
+      "cells": [
+        "Cholinergic receptors nicotinic subunits (CHRN)",
+        "2017",
+        "32",
+        "Drug binding,Ion channel activity,Acetylcholine receptor activity",
+        "123"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/239"
+    },
+    {
+      "cells": [
+        "Chromobox family (CBX)",
+        "2010",
+        "14",
+        "Chromatin binding, Enzyme binding, DNA binding, Protein binding, Transcription repressor activity, Ubiquitin-protein ligase activity.",
+        "71"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/14"
+    },
+    {
+      "cells": [
+        "Ciliary Rootlet Coiled-Coil Proteins (CROCC)",
+        "2017",
+        "28",
+        "Protein binding activity",
+        "42"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/240"
+    },
+    {
+      "cells": [
+        "Collagen alpha (COL)",
+        "2015",
+        "11",
+        "Protein homodimerization activity, Structural molecule activity,Heparin binding,Extracellular matrix structural constituent,Extracellular matrix structural constituent",
+        "67"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/92"
+    },
+    {
+      "cells": [
+        "CREB3 transcription factor family (CREB3)",
+        "2016",
+        "18",
+        "Plays a role in the unfolded protein response (upr), Cell proliferation and migration, Tumor suppression and inflammatory gene expression.",
+        "48"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/194"
+    },
+    {
+      "cells": [
+        "Cyclin dependent kinases (CDK)",
+        "2014",
+        "28",
+        "Cyclin-dependent protein kinase activity, Transferase activity , Protein serine/threonine & tyrosine kinase activity, Signal transducer activity.",
+        "183"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/47"
+    },
+    {
+      "cells": [
+        "Cyclin-dependent kinase inhibitor 2 Family (CDKN2)",
+        "2016",
+        "19",
+        "Protein kinase binding,Protein binding,Cyclin-dependent protein serine/threonine kinase inhibitor activity.",
+        "38"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/163"
+    },
+    {
+      "cells": [
+        "Cyclins (CCN)",
+        "2015",
+        "21",
+        "Protein binding, Protein kinase activity",
+        "137"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/91"
+    },
+    {
+      "cells": [
+        "Cytoplasmic Polyadenylation Element Binding Protein (CPEB)",
+        "2015",
+        "18",
+        "Nucleotide binding, RNA binding, Protein binding",
+        "46"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/93"
+    },
+    {
+      "cells": [
+        "Dickkopf WNT Signaling Pathway Inhibitor (DKK)",
+        "2015",
+        "25",
+        "Protein binding,Growth factor activity,Signal transducer activity,Low-density lipoprotein particle receptor binding",
+        "49"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/94"
+    },
+    {
+      "cells": [
+        "Distal-less homeobox (DLX)_(BAR)_(MSX)_(NKX1)",
+        "2015",
+        "12",
+        "Sequence-specific DNA binding, transcription factor activity",
+        "98"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/95"
+    },
+    {
+      "cells": [
+        "DLG associated proteins (DLGAP)",
+        "2017",
+        "25",
+        "Protein binding activity",
+        "85"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/206"
+    },
+    {
+      "cells": [
+        "DNAJ (HSP40) heat shock proteins (DNAJ)",
+        "2015",
+        "18",
+        "Unfolded protein binding, Heat shock protein binding",
+        "61"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/96"
+    },
+    {
+      "cells": [
+        "DOCK family Rho GEFs (DOCK)",
+        "2015",
+        "37",
+        "GTPase activator activity, GTP binding, Guanyl-nucleotide exchange factor activity, Protein binding",
+        "118"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/97"
+    },
+    {
+      "cells": [
+        "Dual specificity phosphatase (DUSP)(MKP)_(SSH)",
+        "2015",
+        "18",
+        "Hydrolase activity, Protein binding, MAP kinase tyrosine/serine/threonine phosphatase activity, Actin binding",
+        "144"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/99"
+    },
+    {
+      "cells": [
+        "Dynamin family (DNM)",
+        "2016",
+        "23",
+        "Microtubule-associated force-producing protein involved in producing microtubule bundles and able to bind and hydrolyze gtp. Involved in receptor-mediated endocytosis.",
+        "67"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/196"
+    },
+    {
+      "cells": [
+        "E2F transcription factors (E2F)",
+        "2017",
+        "31",
+        "DNA binding, Protein binding, Sequence-specific DNA binding transcription factor activity, Transcription factor binding",
+        "84"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/207"
+    },
+    {
+      "cells": [
+        "Early B-cell factor 1 (EBF)",
+        "2015",
+        "21",
+        "DNA binding,Metal ion binding",
+        "47"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/100"
+    },
+    {
+      "cells": [
+        "Early Growth Response (EGR)",
+        "2015",
+        "14",
+        "Sequence-specific DNA binding transcription factor activity",
+        "64"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/101"
+    },
+    {
+      "cells": [
+        "Elongation of very long fatty acids protein (ELOVL)",
+        "2015",
+        "19",
+        "Protein binding, Transferase activity",
+        "91"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/103"
+    },
+    {
+      "cells": [
+        "Erb-b2 receptor tyrosine kinases (ERBB)",
+        "2007",
+        "9",
+        "Epidermal growth factor receptor activity, Protein serine/threonine kinase activity, Electron transporter activity, Cell proliferation, ATP binding.",
+        "29"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/3"
+    },
+    {
+      "cells": [
+        "Eukaryotic Translation Initiation Factor 4E Binding Protein family (EIF4EBP)",
+        "2015",
+        "23",
+        "Protein Binding, Translation repressor activity",
+        "38"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/102"
+    },
+    {
+      "cells": [
+        "EYA transcriptional coactivator and phosphatases (EYA)",
+        "2011",
+        "19",
+        "Metal ion binding, Hydrolase activity, Protein tyrosine phosphatase activity, Protein binding, Chromatin binding",
+        "62"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/69"
+    },
+    {
+      "cells": [
+        "Family with Sequence Similarity 110 (FAM110)",
+        "2017",
+        "25",
+        "Alpha-tubulin binding,Protein binding",
+        "56"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/208"
+    },
+    {
+      "cells": [
+        "Family with sequence similarity 13 (FAM13)",
+        "2015",
+        "27",
+        "GTPase activator activity",
+        "72"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/104"
+    },
+    {
+      "cells": [
+        "Family with sequence similarity 53 (FAM53)",
+        "2015",
+        "30",
+        "Role in neural development",
+        "67"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/105"
+    },
+    {
+      "cells": [
+        "Far upstream element (FUSE) binding protein family (FUBP)",
+        "2016",
+        "26",
+        "DNA binding, poly(A) RNA binding, RNA polymerase II distal enhancer sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription.",
+        "53"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/168"
+    },
+    {
+      "cells": [
+        "Fibrillar collagens (COL)",
+        "2007",
+        "11",
+        "Extracellular matrix structural constituent, Structural constituent of bone, Phosphate transport, Cell adhesion, Skeletal development, Perception of sound.",
+        "40"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/2"
+    },
+    {
+      "cells": [
+        "Fibroblast growth factor family (FGF)",
+        "2015",
+        "17",
+        "Protein tyrosine kinase activity,Type 1 fibroblast growth factor receptor binding,Type 2 fibroblast growth factor receptor binding,Growth factor activity",
+        "37"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/106"
+    },
+    {
+      "cells": [
+        "Fibroblast growth factor receptor (FGFR)",
+        "2015",
+        "28",
+        "Protein binding, Fibroblast growth factor binding",
+        "73"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/107"
+    },
+    {
+      "cells": [
+        "FKBP prolyl isomerases (FKBP)",
+        "2013",
+        "25",
+        "FK506 binding,Peptidyl-prolyl cis-trans isomerase activity,Calcium ion binding",
+        "104"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/28"
+    },
+    {
+      "cells": [
+        "Formin binding protein family (FNBP1)",
+        "2016",
+        "34",
+        "Identical protein binding, Lipid binding.",
+        "70"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/182"
+    },
+    {
+      "cells": [
+        "Formin-like (FMNL)",
+        "2013",
+        "21",
+        "Actin binding, Profilin binding, Rho GTPase binding, Substrate-dependent cell migration.",
+        "50"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/29"
+    },
+    {
+      "cells": [
+        "G Protein Regulated Inducer of Neurite Outgrowth (GPRIN)",
+        "2015",
+        "8",
+        "Phosphoprotein binding",
+        "20"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/110"
+    },
+    {
+      "cells": [
+        "G protein-coupled receptor kinase (GRK_ADRBK)_(AKT)_(SGK)_(RPS6KB)",
+        "2015",
+        "14",
+        "G-protein coupled receptor kinase activity,Rhodopsin kinase activity,ATP binding,Nucleotide binding,Protein serine/threonine kinase activity",
+        "150"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/112"
+    },
+    {
+      "cells": [
+        "G protein-coupled receptors, Class F frizzled (FZD)",
+        "2014",
+        "21",
+        "G-protein coupled receptor activity, Transmembrane receptor activity, Frizzled signaling pathway.",
+        "102"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/49"
+    },
+    {
+      "cells": [
+        "GDNF family receptor alpha (GFRA)",
+        "2015",
+        "23",
+        "Glial cell-derived neurotrophic factor receptor activity",
+        "63"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/108"
+    },
+    {
+      "cells": [
+        "GLI zinc-finger protein family (GLI)",
+        "2007",
+        "13",
+        "Regulation of transcription from RNA , polymerase II promoter, Morphogenesis of limb and brain.",
+        "29"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/4"
+    },
+    {
+      "cells": [
+        "Glutamate Receptor Ionotropic (GRI)",
+        "2015",
+        "21",
+        "Protein binding, PDZ domain binding, Ion channel activity, Glutamate receptor activity, Transporter activity",
+        "137"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/111"
+    },
+    {
+      "cells": [
+        "Grainyhead like Transcription factor (GRHL)_(TFCP2)",
+        "2017",
+        "26",
+        "Chromatin DNA binding, Sequence-specific DNA binding, Protein binding.",
+        "57"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/209"
+    },
+    {
+      "cells": [
+        "Growth arrest and DNA-damage-inducible 45 Family (GADD45)",
+        "2016",
+        "24",
+        "Core promoter binding, Protein binding.",
+        "60"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/167"
+    },
+    {
+      "cells": [
+        "Growth factor receptor-bound proteins (GRB)",
+        "2013",
+        "27",
+        "Protein binding, SH3/SH2 adaptor activity, Leukocyte migration, Epidermal growth factor receptor.",
+        "67"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/30"
+    },
+    {
+      "cells": [
+        "Hedgehog signaling molecule family (HH)",
+        "2007",
+        "14",
+        "Mesodermal cell fate determination, Proteolysis and peptidolysis, Cell-cell signaling, Intein-mediated protein splicing.",
+        "32"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/5"
+    },
+    {
+      "cells": [
+        "Heparin binding growth factor family (HDGF)",
+        "2016",
+        "24",
+        "Heparin-binding protein, Mitogenic activity for fibroblasts, Transcriptional repressor.",
+        "51"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/200"
+    },
+    {
+      "cells": [
+        "Heterogeneous nuclear ribonucleoprotein A (HNRNPA)",
+        "2010",
+        "16",
+        "Nucleotide binding, RNA binding, Protein binding.",
+        "37"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/15"
+    },
+    {
+      "cells": [
+        "Heterogeneous nuclear ribonucleoprotein H (HNRNPH)_(RBM12)_(ESRP)",
+        "2015",
+        "27",
+        "Nucleotide binding, RNA binding",
+        "86"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/113"
+    },
+    {
+      "cells": [
+        "Histone deacetylases, class II (HDAC)",
+        "2013",
+        "17",
+        "Histone deacetylase binding, Potassium ion binding, Hydrolase activity, Activating transcription factor binding, Sequence-specific DNA binding.",
+        "61"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/31"
+    },
+    {
+      "cells": [
+        "HR lysine demethylase and nuclear receptor corepressor (HR)_(KDM3)",
+        "2015",
+        "16",
+        "Transcription regulator controlling hair biology, neutral activity and cell cycle.",
+        "45"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/236"
+    },
+    {
+      "cells": [
+        "HtrA serine peptidase (HTRA)",
+        "2015",
+        "27",
+        "Peptidase activity,Insulin-like growth factor binding,Serine-type endopeptidase activity",
+        "74"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/114"
+    },
+    {
+      "cells": [
+        "I-set domain containing (PALLD)_(MYPN)_(MYOT)_(OBSL1)",
+        "2015",
+        "25",
+        "Muscle alpha-actinin binding, Protein binding, Actin binding, Nebulin binding, Muscle alpha-actinin binding, Structural constituent of muscle, Cytoskeletal adaptor activity",
+        "57"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/131"
+    },
+    {
+      "cells": [
+        "IKAROS family zinc finger (IKZF)",
+        "2007",
+        "10",
+        "DNA-dependent regulation of transcription, Specification and the maturation of the lymphocyte.",
+        "30"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/11"
+    },
+    {
+      "cells": [
+        "Inhibin subunits (INH)",
+        "2007",
+        "15",
+        "Cytokine activity, Growth factor activity, Induction of apoptosis, Mesoderm development, Defense response.",
+        "39"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/6"
+    },
+    {
+      "cells": [
+        "Inhibitor of DNA binding proteins (ID)",
+        "2017",
+        "35",
+        "Sequence-specific DNA binding transcription factor activity, Protein binding, Protein dimerization activity",
+        "65"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/210"
+    },
+    {
+      "cells": [
+        "Inhibitor of growth family (ING)",
+        "2013",
+        "18",
+        "Protein binding,Zinc ion binding, Metal ion binding, Histone acetyltransferase activity, Transcription coactivator activity.",
+        "70"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/32"
+    },
+    {
+      "cells": [
+        "Insulin like growth factor binding proteins (IGFBP)",
+        "2007",
+        "12",
+        "Regulation of cell growth, Signal transduction, Skeletal Development, Cell proliferation.",
+        "38"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/7"
+    },
+    {
+      "cells": [
+        "Integrin alpha subunits (ITGA)",
+        "2014",
+        "16",
+        "Protein binding, Cell-matrix adhesion, Integrin mediated signaling pathway, Integrin complex.",
+        "146"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/50"
+    },
+    {
+      "cells": [
+        "Integrin beta subunits (ITGB)",
+        "2007",
+        "8",
+        "Receptor activity, Cell-matrix adhesion, Integrinmediated Signaling pathway.",
+        "33"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/8"
+    },
+    {
+      "cells": [
+        "Janus kinase and microtubule interacting protein (JAKMIP)",
+        "2015",
+        "29",
+        "Kinase binding, Microtubule binding",
+        "55"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/115"
+    },
+    {
+      "cells": [
+        "KLF transcription factors (KLF)",
+        "2015",
+        "9",
+        "Metal ion binding, DNA binding, Zinc ion binding, Sequence-specific DNA binding transcription factor activity",
+        "69"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/117"
+    },
+    {
+      "cells": [
+        "KN motif and ankyrin repeat domain containing (KANK)",
+        "2016",
+        "23",
+        "Protein binding, Beta-catenin binding.",
+        "54"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/165"
+    },
+    {
+      "cells": [
+        "Kv Channel Interacting Protein (KCNIP)",
+        "2015",
+        "28",
+        "Voltage-gated ion channel activity, Calcium ion binding, Protein heterodimerization activity, Protein binding, Potassium channel regulator activity, Ion channel activity, ER retention sequence binding, Transcription corepressor activity, DNA binding",
+        "72"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/116"
+    },
+    {
+      "cells": [
+        "Leucine zipper tumor suppressor family (LZTS)",
+        "2015",
+        "23",
+        "Protein binding",
+        "72"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/120"
+    },
+    {
+      "cells": [
+        "Leucine-rich, glioma inactivated (LGI)",
+        "2015",
+        "32",
+        "Catalytic activity, Receptor binding",
+        "99"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/118"
+    },
+    {
+      "cells": [
+        "Lysine demethylase 4 (KDM4)",
+        "2016",
+        "18",
+        "Histone demethylation, Chromatin organization, Regulation of transcription.",
+        "48"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/179"
+    },
+    {
+      "cells": [
+        "Lysosomal transmembrane protein (LAPTM)",
+        "2011",
+        "27",
+        "Transport, Protein binding",
+        "62"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/71"
+    },
+    {
+      "cells": [
+        "Lysyl oxidase homolog (LOX)",
+        "2015",
+        "25",
+        "Protein binding, Copper ion binding",
+        "89"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/119"
+    },
+    {
+      "cells": [
+        "M38 metallopeptidases_Dihydropyrimidinase-like (DPYS)",
+        "2015",
+        "22",
+        "Protein binding, Hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides",
+        "75"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/98"
+    },
+    {
+      "cells": [
+        "Maestro heat-like repeat-containing (MROH)",
+        "2017",
+        "22",
+        "Protein binding",
+        "46"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/211"
+    },
+    {
+      "cells": [
+        "Mannosidases alpha class 1 (MAN1)",
+        "2016",
+        "26",
+        "Calcium ion binding,Mannosidase activity.",
+        "60"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/162"
+    },
+    {
+      "cells": [
+        "Matrilins (MATN)",
+        "2011",
+        "14",
+        "Extracellular matrix structural constituent, Protein binding",
+        "46"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/72"
+    },
+    {
+      "cells": [
+        "MAX dimerization proteins (MXD)",
+        "2015",
+        "25",
+        "Protein binding, DNA binding",
+        "68"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/123"
+    },
+    {
+      "cells": [
+        "Membrane Associated Ring-CH-type Fingers (MARCHF)",
+        "2015",
+        "18",
+        "MHC protein binding, Zinc ion binding, Ligase activity, Ubiquitin-protein ligase activity",
+        "52"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/122"
+    },
+    {
+      "cells": [
+        "Methyltransferase (METTL)",
+        "2014",
+        "27",
+        "Methyltransferase.",
+        "56"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/53"
+    },
+    {
+      "cells": [
+        "Mitogen-activated protein kinases (MAPK)",
+        "2015",
+        "22",
+        "MAP kinase activity, Histone deacetylase binding , ATP and nucleotide binding",
+        "73"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/121"
+    },
+    {
+      "cells": [
+        "MLX interacting protein (MLX)",
+        "2014",
+        "15",
+        "Transcription factor activity, Regulation of transcription, DNA dependent, Transcription.",
+        "28"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/54"
+    },
+    {
+      "cells": [
+        "MYB family of transcription factor genes (MYB)",
+        "2011",
+        "18",
+        "Sequence-specific DNA binding transcription factor activity,DNA, Protein binding",
+        "55"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/73"
+    },
+    {
+      "cells": [
+        "Myc proto-oncogene protein (MYC)",
+        "2011",
+        "20",
+        "Sequence-specific DNA binding transcription factor activity, Protein binding",
+        "53"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/74"
+    },
+    {
+      "cells": [
+        "Myosin heavy chains, class I (MYO1)",
+        "2014",
+        "28",
+        "ATP binding, ATPase activity, Calmodulin binding, Actin binding, Microfilament motor activity.",
+        "161"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/55"
+    },
+    {
+      "cells": [
+        "Myosin light chains (MYL)",
+        "2007",
+        "14",
+        "Phosphoprotein phosphatase activity, Structural constituent of muscle, Muscle development, Microfilament motor activity.",
+        "45"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/9"
+    },
+    {
+      "cells": [
+        "Myozenins (MYOZ)",
+        "2015",
+        "29",
+        "Protein Binding",
+        "68"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/124"
+    },
+    {
+      "cells": [
+        "N-deacetylase and N-sulfotransferase (NDST)",
+        "2015",
+        "23",
+        "Sulfotransferase activity,Deacetylase activity,Hydrolase activity,Transferase activity,[heparan sulfate]-glucosamine N-sulfotransferase activity",
+        "64"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/125"
+    },
+    {
+      "cells": [
+        "Na+_K+ transporting ATPase interacting (NKAIN)",
+        "2017",
+        "24",
+        "Involves in ATPase binding",
+        "46"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/218"
+    },
+    {
+      "cells": [
+        "Nascent polypeptide associated complex subunit alpha & domain proteins (NACA)",
+        "2014",
+        "18",
+        "Protein biosynthesis, Nascent polypeptide association, Nascent polypeptide associated complex.",
+        "29"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/56"
+    },
+    {
+      "cells": [
+        "Neuregulins (NRG)",
+        "2015",
+        "23",
+        "Protein tyrosine kinase activator activity, Growth factor activity, Transcription cofactor activity, Protein binding",
+        "50"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/129"
+    },
+    {
+      "cells": [
+        "Neurexophilins (NXPH)",
+        "2013",
+        "13",
+        "Protein binding, Receptor binding, Neuropeptide signaling pathway.",
+        "34"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/33"
+    },
+    {
+      "cells": [
+        "Neuron-specific protein family (NSG)",
+        "2015",
+        "20",
+        "Clathrin light chain binding",
+        "45"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/130"
+    },
+    {
+      "cells": [
+        "Neuronal differentiation (NEUROD)_Neurogenin (NEUROG)",
+        "2014",
+        "23",
+        "RNA polymerase II transcription factor activity, Double-strandedÂ DNA binding, E-box binding.",
+        "89"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/57"
+    },
+    {
+      "cells": [
+        "Niban Apoptosis Regulator Family (NIBAN)",
+        "2016",
+        "22",
+        "Protein binding.",
+        "44"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/187"
+    },
+    {
+      "cells": [
+        "NK Homeobox (NKX)_(HMX)_(TLX)",
+        "2015",
+        "4",
+        "DNA binding, Sequence-specific DNA binding transcription factor activity, Protein binding, Transcription factor binding, Protein self-association",
+        "85"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/127"
+    },
+    {
+      "cells": [
+        "NSP adaptor proteins (SH2D3)",
+        "2016",
+        "26",
+        "Protein binding.",
+        "54"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/183"
+    },
+    {
+      "cells": [
+        "Nuclear factor (erythroid-derived) (NFE)",
+        "2010",
+        "21",
+        "Transcription factor activity, Transcription coactivator activity, Protein N-terminus binding, Sequence-specific DNA binding, WW domain binding, Protein dimerization activity.",
+        "51"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/16"
+    },
+    {
+      "cells": [
+        "Nuclear factor I family (NFI)",
+        "2016",
+        "24",
+        "Involved in positive regulation of transcription, Transcription factor binding, Double-stranded DNA binding.",
+        "50"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/164"
+    },
+    {
+      "cells": [
+        "Nuclear Receptor Binding SET domain protein (NSD)",
+        "2015",
+        "32",
+        "Chromatin binding, Methyltransferase activity, Transcription regulator activator activity, Metal ion binding.",
+        "79"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/250"
+    },
+    {
+      "cells": [
+        "Nuclear Receptor Coactivator (NCOA)",
+        "2017",
+        "22",
+        "Protein dimerization activity,Chromatin binding,Nuclear hormone receptor binding,RNA polymerase II regulatory region DNA binding",
+        "54"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/213"
+    },
+    {
+      "cells": [
+        "Nucleophosmins (NPM)",
+        "2015",
+        "22",
+        "ribosome biogenesis, centrosome duplication, protein chaperoning, histone assembly, cell proliferation, and regulation of tumor suppressors",
+        "53"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/128"
+    },
+    {
+      "cells": [
+        "ORM1-like (ORMDL)",
+        "2013",
+        "15",
+        "Protein binding.",
+        "30"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/34"
+    },
+    {
+      "cells": [
+        "Oxysterol binding proteins (OSBP)",
+        "2010",
+        "21",
+        "Protein binding.",
+        "55"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/17"
+    },
+    {
+      "cells": [
+        "Paralemmins (PALM)",
+        "2016",
+        "21",
+        "Regulation of cell shape, Membrane remodeling, Protein Kinase A anchoring, ATP Binding Protein, Protein Binding",
+        "60"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/184"
+    },
+    {
+      "cells": [
+        "Peroxisome Proliferator-Activated Receptor Gamma, Coactivator (PPARGC)",
+        "2015",
+        "24",
+        "Ligand-dependent nuclear receptor binding, Transcription coactivator activity, Protein binding",
+        "50"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/137"
+    },
+    {
+      "cells": [
+        "PHD finger protein family (PHF)",
+        "2016",
+        "16",
+        "Zinc ion binding, Methylated histone binding, DNA binding.",
+        "37"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/170"
+    },
+    {
+      "cells": [
+        "Phosphodiesterase 1 Calmodulin-dependent (PDE1)",
+        "2010",
+        "25",
+        "Calmodulin-dependent cyclic-nucleotide phosphodiesterase activity, Hydrolase activity, Calmodulin binding",
+        "46"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/18"
+    },
+    {
+      "cells": [
+        "Phosphodiesterases (PDE)",
+        "2015",
+        "15",
+        "Nucleotide binding,Metal ion binding,Hydrolase activity,CGMP binding,3',5'-cyclic-GMP phosphodiesterase activity, 3',5'-cyclic-nucleotide phosphodiesterase activity",
+        "91"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/132"
+    },
+    {
+      "cells": [
+        "Pituitary homeobox (PITX)",
+        "2015",
+        "22",
+        "RNA polymerase II core promoter proximal region sequence-specific DNA binding transcription factor activity involved in positive regulation of transcription",
+        "52"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/134"
+    },
+    {
+      "cells": [
+        "Pleckstrin and Sec7 domain containing (PSD)",
+        "2015",
+        "32",
+        "Signal transducer activity, ARF guanyl-nucleotide exchange factor activity",
+        "70"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/140"
+    },
+    {
+      "cells": [
+        "Pleckstrin homology domain containing, family A (PLEKHA)",
+        "2013",
+        "26",
+        "Phospholipid binding,1-phosphatidylinositol binding, Glycolipid transporter activity, Glycolipid binding.",
+        "41"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/36"
+    },
+    {
+      "cells": [
+        "Polycystic Kidney Disease (PKD)",
+        "2015",
+        "26",
+        "Protein binding, Ion channel binding, Voltage-gated cation channel activity, Sour taste receptor activity",
+        "108"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/135"
+    },
+    {
+      "cells": [
+        "Polypyrimidine tract binding protein family (PTBP)",
+        "2016",
+        "20",
+        "RNA-binding protein which binds to intronic polypyrimidine tracts and mediates negative regulation of exons splicing. Plays also a role in the regulation of translation.",
+        "44"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/193"
+    },
+    {
+      "cells": [
+        "Potassium inwardly rectifying channel subfamily J (KCNJ)",
+        "2014",
+        "27",
+        "Amino acid-polyamine transporter activity, Sodium symporter activity, Oxygen transporter activity, Structural constituent of ribosome.",
+        "239"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/52"
+    },
+    {
+      "cells": [
+        "Potassium voltage-gated channel delayed-rectifier, subfamily S (KCNS)",
+        "2011",
+        "26",
+        "Voltage-gated ion channel activity, Protein binding, Potassium channel regulator and delayed-rectifier activity",
+        "60"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/75"
+    },
+    {
+      "cells": [
+        "Potassium Voltage-Gated Channel subfamily Q (KCNQ)",
+        "2017",
+        "28",
+        "Voltage-gated potassium channel activity,Ankyrin binding,Delayed rectifier potassium channel activity",
+        "67"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/219"
+    },
+    {
+      "cells": [
+        "Potassium voltage-gated channel, subfamily H (KCNH)_(CNG)",
+        "2014",
+        "15",
+        "Calmodulin binding, Voltage-gated potassium channel activity, Signal transducer activity, Nucleotide binding, cGMP binding, Intracellular cAMP activated cation channel activity.",
+        "103"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/51"
+    },
+    {
+      "cells": [
+        "POU class (POU)",
+        "2015",
+        "13",
+        "RNA polymerase II activating transcription factor binding ,RNA polymerase II transcription coactivator activity",
+        "82"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/136"
+    },
+    {
+      "cells": [
+        "pre-B-cell leukemia homeobox (PBX)",
+        "2016",
+        "25",
+        "Transcription factor binding.",
+        "42"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/181"
+    },
+    {
+      "cells": [
+        "Procollagen-lysine,2-oxoglutarate 5-dioxygenase family (PLOD)_(COLGALT)",
+        "2016",
+        "27",
+        "Procollagen galactosyltransferase activity.",
+        "89"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/175"
+    },
+    {
+      "cells": [
+        "Proline-rich coiled-coil family (PRRC2)",
+        "2016",
+        "16",
+        "Protein C-terminus binding.",
+        "34"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/186"
+    },
+    {
+      "cells": [
+        "Protein kinase gamma subunit (PRKAG)",
+        "2013",
+        "26",
+        "Protein binding, CAMP-dependent protein kinase activity, AMP binding, CAMP-dependent protein kinase regulator activity, Protein kinase binding, Phosphorylase kinase regulator activity.",
+        "63"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/38"
+    },
+    {
+      "cells": [
+        "Protein phosphatase 1 regulatory 1 subunits (PPP1R1)",
+        "2013",
+        "18",
+        "Protein binding, Protein serine/threonine phosphatase inhibitor activity, Protein kinase inhibitor activity, Receptor binding.",
+        "38"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/37"
+    },
+    {
+      "cells": [
+        "Protein Phosphate 3 Catalytic Subunit (PPP3C)",
+        "2015",
+        "21",
+        "Calmodulin binding, Hydrolase activity, Phosphoprotein phosphatase activity, Drug binding, Enzyme binding, Protein heterodimerization activity",
+        "39"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/139"
+    },
+    {
+      "cells": [
+        "Protein phosphotase 2, regulatory subunit B (PPP2R2)",
+        "2015",
+        "16",
+        "Protein binding, Protein phosphatase type 2A regulator activity",
+        "52"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/138"
+    },
+    {
+      "cells": [
+        "Protein tyrosine phosphatases receptor type subfamily 1 (PTPR)",
+        "2011",
+        "17",
+        "Protein tyrosine phosphatase activity, Hydrolase activity, Receptor activity, Protein binding",
+        "59"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/76"
+    },
+    {
+      "cells": [
+        "Protein-kinase N family (PKN)",
+        "2016",
+        "26",
+        "Protein phosphorylation, Signal transduction.",
+        "60"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/178"
+    },
+    {
+      "cells": [
+        "Pyruvate dehydrogenase kinase (PDK)",
+        "2013",
+        "20",
+        "Pyruvate dehydrogenase (acetyl-transferring) kinase activity, Two-component sensor activity, Protein heterodimerization activity, ATP binding.",
+        "67"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/35"
+    },
+    {
+      "cells": [
+        "PZD and LIM domain protein (PDLIM)",
+        "2015",
+        "37",
+        "Zinc ion binding, Protein binding",
+        "89"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/133"
+    },
+    {
+      "cells": [
+        "R-spondin family (RSPO)",
+        "2017",
+        "31",
+        "Heparin binding, G-protein coupled receptor binding, Protein binding, Receptor binding",
+        "60"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/222"
+    },
+    {
+      "cells": [
+        "Rap guanine nucleotide exchange factor (RAPGEF)",
+        "2014",
+        "27",
+        "Calcium ion binding, Signal transducer activity, Protein binding, Rap guanyl-nucleotide exchange factor activity, CAMP-dependent protein kinase regulator activity, cAMP binding.",
+        "95"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/58"
+    },
+    {
+      "cells": [
+        "Receptor (G protein-coupled) activity modifying protein (RAMP)",
+        "2013",
+        "18",
+        "Coreceptor activity, Protein transporter activity, Intracellular protein transport.",
+        "44"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/68"
+    },
+    {
+      "cells": [
+        "Receptor accessory proteins (REEP)",
+        "2015",
+        "14",
+        "Protein binding, Receptor binding, Microtubule binding",
+        "63"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/142"
+    },
+    {
+      "cells": [
+        "Regulating synaptic membrane exocytosis family (RIMS)",
+        "2017",
+        "27",
+        "Ion channel binding,Protein heterodimerization activity,Rab GTPase binding",
+        "49"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/221"
+    },
+    {
+      "cells": [
+        "Regulators of G-protein signaling subfamily 1 (RGS)",
+        "2015",
+        "18",
+        "GTPase activator activity, Protein binding, Signal transducer activity",
+        "109"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/143"
+    },
+    {
+      "cells": [
+        "Regulators of G-protein signaling subfamily 2 (RGS)",
+        "2016",
+        "13",
+        "GTPase activator activity, Calmodulin binding, Beta-tubulin binding.",
+        "72"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/195"
+    },
+    {
+      "cells": [
+        "Regulators of G-protein signaling subfamily 3 (RGS)",
+        "2017",
+        "31",
+        "GTPase activator activity,Calmodulin binding,Protein binding",
+        "101"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/220"
+    },
+    {
+      "cells": [
+        "Regulatory factor X family (RFX)",
+        "2016",
+        "24",
+        "Regulation of transcription from RNA polymerase II promoter, DNA binding.",
+        "79"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/174"
+    },
+    {
+      "cells": [
+        "Rho family GTPase (RND)",
+        "2010",
+        "18",
+        "GTP binding, GTPase activity, Nucleotide binding, Protein binding.",
+        "35"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/19"
+    },
+    {
+      "cells": [
+        "Rho family GTPases (RHO)",
+        "2015",
+        "13",
+        "Rho GTPase binding,GTPase activity,Nucleotide binding,Protein binding,Kinase inhibitor activity,GTP binding,GBD domain binding",
+        "59"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/144"
+    },
+    {
+      "cells": [
+        "Ring finger protein subfamily 1 (RNF)",
+        "2014",
+        "21",
+        "Ubiquitin-protein ligase activity, Peptidase activity, Zinc ion binding, Protein ubiquitinition, Proteolysis, Peptidolysis, Ubiquitin ligase complex.",
+        "114"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/59"
+    },
+    {
+      "cells": [
+        "Ring finger protein subfamily 2 (RNF)",
+        "2016",
+        "18",
+        "Zinc ion binding.",
+        "33"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/202"
+    },
+    {
+      "cells": [
+        "RNA Binding Motif (RBM)",
+        "2015",
+        "21",
+        "Nucleotide binding, RNA binding, Protein binding",
+        "80"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/141"
+    },
+    {
+      "cells": [
+        "RUN and FYVE domain containing (RUF)",
+        "2015",
+        "27",
+        "Nervous system development,Cell differentiation,Multicellular organismal development,Protein binding,",
+        "93"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/145"
+    },
+    {
+      "cells": [
+        "SEC24 homologs (SEC24)",
+        "2015",
+        "34",
+        "Zinc ion binding, Vesicle-mediated transport, Cellular membrane organization",
+        "92"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/146"
+    },
+    {
+      "cells": [
+        "Secernin (SCRN)",
+        "2010",
+        "25",
+        "Elemental activities, such as catalysis or binding, describing the actions of a gene product at the molecular level.",
+        "52"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/20"
+    },
+    {
+      "cells": [
+        "Septins (SEPTIN)",
+        "2015",
+        "23",
+        "Nucleotide binding, GTP binding, Protein binding",
+        "186"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/147"
+    },
+    {
+      "cells": [
+        "Serine_threonine kinase 32 (STK32)",
+        "2015",
+        "34",
+        "Protein serine/threonine kinase activity, Metal ion binding, ATP binding",
+        "71"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/153"
+    },
+    {
+      "cells": [
+        "Serine_Threonine-Protein Kinases (STK)",
+        "2017",
+        "25",
+        "ATP binding, Protein homodimerization activity, Protein serine/threonine kinase activity,Protein binding",
+        "72"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/229"
+    },
+    {
+      "cells": [
+        "SH3-domain GRB2-like endophilin family (SH3GL)",
+        "2016",
+        "20",
+        "Implicated in endocytosis and recruit other proteins to membranes with high curvature (by similarity).",
+        "67"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/199"
+    },
+    {
+      "cells": [
+        "SHC adaptor proteins (SHC)",
+        "2016",
+        "23",
+        "Signaling adapter that couples activated growth factor receptors to signaling pathways, and plays a role in the regulation of endothelial cell migration and sprouting angiogenesis.",
+        "55"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/197"
+    },
+    {
+      "cells": [
+        "Slit guidance ligand (SLIT)",
+        "2015",
+        "33",
+        "Calcium ion binding, Roundabout binding, Protein binding",
+        "74"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/150"
+    },
+    {
+      "cells": [
+        "Solute carrier family 25 (SLC25)",
+        "2016",
+        "29",
+        "Transmembrane transport, Cellular response to calcium ion.",
+        "104"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/171"
+    },
+    {
+      "cells": [
+        "Solute Carrier Family 26 (SLC26)",
+        "2015",
+        "22",
+        "Transporter activity, Anion antiporter activity, Protein binding, Ion channel activity",
+        "131"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/148"
+    },
+    {
+      "cells": [
+        "Solute carrier family 27 (SLC27)",
+        "2016",
+        "29",
+        "Long-chain fatty acid transport, Bile acid metabolic process.",
+        "108"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/172"
+    },
+    {
+      "cells": [
+        "Solute carrier family 30 (SLC30)",
+        "2017",
+        "23",
+        "Zinc ion transmembrane transporter activity, Protein binding, Cation transmembrane transporter activity",
+        "74"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/223"
+    },
+    {
+      "cells": [
+        "Solute carrier family 35 (SLC35)",
+        "2016",
+        "28",
+        "UDP-glucuronic acid transmembrane transporter activity, Nucleotide-sugar transmembrane transporter activity.",
+        "59"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/166"
+    },
+    {
+      "cells": [
+        "Solute carrier family 38 (SLC38)",
+        "2014",
+        "28",
+        "Amino acid-polyamine transporter activity, Oxygen transporter activity, Structural constituent of ribosome.",
+        "128"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/63"
+    },
+    {
+      "cells": [
+        "Solute Carrier Family 39 (SLC39)",
+        "2015",
+        "19",
+        "Metal ion transmembrane transporter activity,Zinc ion transmembrane transporter activity",
+        "97"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/149"
+    },
+    {
+      "cells": [
+        "Solute carrier family 4 (SLC4)",
+        "2007",
+        "9",
+        "Inorganic anion exchanger activity, Bicarbonate transport, Chloride transport.",
+        "37"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/1"
+    },
+    {
+      "cells": [
+        "Solute carrier family 44 (SLC44)",
+        "2016",
+        "26",
+        "Small molecule metabolic process.",
+        "61"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/190"
+    },
+    {
+      "cells": [
+        "Solute carrier family 5 (SLC5)",
+        "2014",
+        "28",
+        "Sodium-dependent multivitamin transporter activity, Biotin binding, Transporter activity, Symporter activity, Ion transport, Sodium ion transport.",
+        "126"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/65"
+    },
+    {
+      "cells": [
+        "Solute carrier family 57, NIPA-like magnesium transporters (SLC57, NIPA)",
+        "2015",
+        "22",
+        "Magnesium ion transport",
+        "68"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/126"
+    },
+    {
+      "cells": [
+        "Sorbin and SH3 domain containing (SH3RF)_(SORBS)",
+        "2015",
+        "17",
+        "Protein binding, Zinc ion binding",
+        "57"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/160"
+    },
+    {
+      "cells": [
+        "Sorting nexins subfamily 1 (SNX)",
+        "2010",
+        "10",
+        "Protein binding, Phosphoinositide binding, signal transducer activity, Receptor binding.",
+        "23"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/21"
+    },
+    {
+      "cells": [
+        "Sorting nexins subfamily 2 (SNX)",
+        "2017",
+        "29",
+        "Protein binding,Phosphatidylinositol binding",
+        "43"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/225"
+    },
+    {
+      "cells": [
+        "Sp transcription factors (SP)",
+        "2007",
+        "9",
+        "RNA polymerase II transcription factor activity.",
+        "36"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/10"
+    },
+    {
+      "cells": [
+        "SPARC (osteonectin), cwcv and kazal like domains proteoglycan (SPOCK)",
+        "2015",
+        "26",
+        "Calcium ion binding, Extracellular matrix binding, Glycosaminoglycan binding",
+        "56"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/152"
+    },
+    {
+      "cells": [
+        "Sphingosine 1-phosphate receptors (S1PR1)",
+        "2016",
+        "21",
+        "Sphingosine-1-phosphate signaling pathway, Immune response.",
+        "64"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/176"
+    },
+    {
+      "cells": [
+        "Src family tyrosine kinases subfamily A (SrcA)",
+        "2011",
+        "21",
+        "Protein tyrosine kinase activity, ATP binding, Transferase activity, Nucleotide binding, Protein binding",
+        "67"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/77"
+    },
+    {
+      "cells": [
+        "Src family tyrosine kinases subfamily B (SrcB)",
+        "2011",
+        "23",
+        "Nucleotide binding, ATP binding, Transferase activity, Protein tyrosine kinase activity, Protein binding",
+        "62"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/70"
+    },
+    {
+      "cells": [
+        "Src homology 2 domain containing adaptor protein (SH)",
+        "2016",
+        "27",
+        "Apoptotic process, Adaptor activity.",
+        "58"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/173"
+    },
+    {
+      "cells": [
+        "Stathmins (STMN)",
+        "2017",
+        "22",
+        "Tubulin binding,Protein domain specific binding,Signal transducer activity",
+        "63"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/228"
+    },
+    {
+      "cells": [
+        "Suppressors of cytokine signaling (SOCS)",
+        "2014",
+        "26",
+        "SH3/SH2 adaptor activity, Insulin-like growth factor receptor binding , Prolactin receptor binding, Protein kinase inhibitor activity.",
+        "150"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/66"
+    },
+    {
+      "cells": [
+        "Synaptopodins (SYNPO)",
+        "2015",
+        "15",
+        "Actin binding,Protein binding",
+        "36"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/154"
+    },
+    {
+      "cells": [
+        "Syndecans (SDC)",
+        "2011",
+        "14",
+        "Cytoskeletal protein binding, Glycoprotein binding, Protein C-terminus binding, PDZ domain binding",
+        "46"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/78"
+    },
+    {
+      "cells": [
+        "Syntaxin binding protein (STXBP)",
+        "2016",
+        "24",
+        "Syntaxin binding.",
+        "44"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/185"
+    },
+    {
+      "cells": [
+        "Syntrophins (SNT)",
+        "2017",
+        "28",
+        "Actin binding, PDZ domain binding, Calmodulin binding,",
+        "81"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/224"
+    },
+    {
+      "cells": [
+        "Synucleins (SNC)",
+        "2015",
+        "18",
+        "Alpha-tubulin binding, ion binding, Cysteine-type endopeptidase inhibitor activity involved in apoptotic process, Arachidonic acid binding, Fatty acid binding, Protein binding, Oxidoreductase activity, Phospholipase inhibitor activity",
+        "30"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/151"
+    },
+    {
+      "cells": [
+        "TACC family (TACC)",
+        "2015",
+        "25",
+        "Cerebral cortex development, Protein domain specific binding, Interkinetic nuclear migration, Cell cycle",
+        "55"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/155"
+    },
+    {
+      "cells": [
+        "TCF_LEF transcription factor family (TCF)",
+        "2015",
+        "17",
+        "Chromatin binding,Transcription regulatory region DNA binding,Sequence-specific DNA binding ,transcription factor activity,Protein binding,Beta-catenin binding",
+        "50"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/156"
+    },
+    {
+      "cells": [
+        "Tensin (TNS)",
+        "2013",
+        "25",
+        "Actin binding, Protein binding.",
+        "74"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/41"
+    },
+    {
+      "cells": [
+        "Tetraspanins (TSPAN)",
+        "2015",
+        "16",
+        "Ubiquitin-protein ligase activity,Protein binding,Signal transducer activity",
+        "139"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/157"
+    },
+    {
+      "cells": [
+        "Transcription Elongation factor A (SII) Proteins (TCEA)",
+        "2017",
+        "22",
+        "Zinc ion binding,DNA binding,Protein binding",
+        "51"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/231"
+    },
+    {
+      "cells": [
+        "Transforming growth factor beta receptor family (TGFBR)",
+        "2016",
+        "23",
+        "Activin binding, Transforming growth factor beta receptor binding, Heparin binding, SMAD binding",
+        "33"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/169"
+    },
+    {
+      "cells": [
+        "Transmembrane protein 106 (TMEM106)",
+        "2013",
+        "24",
+        "\"Putative transmembrane protein, molecular function unknown\"",
+        "46"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/40"
+    },
+    {
+      "cells": [
+        "Tropomyosins (TPM)",
+        "2016",
+        "22",
+        "Binds to actin filaments in muscle and non-muscle cells, Smooth muscle contraction is regulated by interaction with caldesmon, Non-muscle cells is implicated in stabilizing cytoskeleton actin filaments",
+        "42"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/192"
+    },
+    {
+      "cells": [
+        "Tumor necrosis factor superfamily (TNFSF)",
+        "2016",
+        "21",
+        "Tumor necrosis factor receptor binding.",
+        "51"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/191"
+    },
+    {
+      "cells": [
+        "UBX domain containing (UBXN)",
+        "2017",
+        "22",
+        "Ubiquitin binding,Protein phosphatase type 1 regulator activity,Protein binding",
+        "32"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/232"
+    },
+    {
+      "cells": [
+        "UNC-5 netrin receptors (UNC-5)_(BAI)_(ADGRB)",
+        "2015",
+        "17",
+        "Receptor activity, Netrin receptor activity, Protein binding",
+        "89"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/158"
+    },
+    {
+      "cells": [
+        "Vesicle-associated membrane protein (VAMP)",
+        "2013",
+        "15",
+        "Protein binding, Syntaxin binding, Phospholipid binding, Calmodulin binding.",
+        "59"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/42"
+    },
+    {
+      "cells": [
+        "Voltage dependent anion channels (VDAC)",
+        "2015",
+        "22",
+        "Voltage-gated anion channel activity, Nucleotide binding, Porin activity",
+        "56"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/159"
+    },
+    {
+      "cells": [
+        "WAS_WASL interacting protein family (WIPF)",
+        "2010",
+        "15",
+        "Actin binding, Profilin binding.",
+        "31"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/22"
+    },
+    {
+      "cells": [
+        "WDR domain (WDR)",
+        "2019",
+        "36",
+        "Cerebral cortical development, neuronal proliferation and migration",
+        "57"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/235"
+    },
+    {
+      "cells": [
+        "XK related family (XKR)",
+        "2017",
+        "24",
+        "Promotes phosphatidylserine exposure on apoptotic cell surface",
+        "101"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/233"
+    },
+    {
+      "cells": [
+        "YTH domain containing N6-methyladenosine readers subfamily F (YTHF)",
+        "2017",
+        "24",
+        "Poly(A) RNA binding, N6-methyladenosine-containing RNA binding",
+        "49"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/234"
+    },
+    {
+      "cells": [
+        "Zinc finger protein 385 (ZNF385)",
+        "2013",
+        "17",
+        "Protein binding, Zinc ion binding, DNA binding, Metal ion binding, Nucleic acid binding.",
+        "51"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/43"
+    },
+    {
+      "cells": [
+        "Zinc fingers C2H2C-type (MYT)",
+        "2017",
+        "22",
+        "Zinc ion binding,Sequence-specific DNA binding transcription factor activity",
+        "48"
+      ],
+      "href": "https://www.pahgncb.com/genomedb/public/genefamily/212"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿family,method,severity,issue,status
+SLC4,,review,Confirm PAHG family ID; folder number is only a candidate.,open
+SLC4,,gap,Supplied NEXUS is an alignment; NEXUS tree files remain to be created.,open
+SLC4,ML,naming,Original Newick has double .nwk extension; working copy has standard name.,working copy named
+SLC4,NJ,naming,Original Newick has double .nwk extension; working copy has standard name.,working copy named
+COL,,review,Confirm PAHG family ID; folder number is only a candidate.,open
+COL,,gap,Supplied NEXUS is an alignment; NEXUS tree files remain to be created.,open
+ERBB,,review,Confirm PAHG family ID; folder number is only a candidate.,open
+ERBB,,gap,Supplied NEXUS is an alignment; NEXUS tree files remain to be created.,open
+ABLIM,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+ABLIM,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+ABLIM,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+COL_ALPHA,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+COL_ALPHA,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+COL_ALPHA,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+COL_ALPHA,,review,Possible overlap with supplied COL family,open
+CDKN,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+CDKN,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+CDKN,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+DUSP,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+DUSP,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+DUSP,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+FZD,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+FZD,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+FZD,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+GLI,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+GLI,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+GRI,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+GRI,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+GRI,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+LAPTM,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+LAPTM,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+NFE2,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+NFE2,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+NFE2,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+REEP,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+REEP,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+RNF,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+RNF,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+SLC26,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+SLC26,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+SLC26,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+SH3RF,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+SH3RF,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+SH3RF,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+S1PR,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+S1PR,,gap,No matching raw family FASTA file was found in the repository snapshot.,open
+S1PR,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
+WDR62,,gap,Only sequence and alignment FASTA files captured; obtain matching PAHG source tree files and confirm family ID.,open
+WDR62,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
