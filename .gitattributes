@@ -1,1 +1,4 @@
-working_copies/**/*.nex -text
+# Preserve the captured FASTA response bytes in Git; manifests hash these bytes.
+online_sources/** -text
+working_copies/pahg_live_fastas/** -text
+working_copies/public_fastas/** -text

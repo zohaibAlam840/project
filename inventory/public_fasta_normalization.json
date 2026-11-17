@@ -1,0 +1,932 @@
+[
+  {
+    "filename": "abca8.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/abca8.fasta",
+    "source_sha256": "4571942674ae80bd24fe93851ddcc9a577a0130d5289a0c58aebb15da5668364",
+    "working_path": "working_copies/public_fastas/abca8.fasta",
+    "working_sha256": "4571942674ae80bd24fe93851ddcc9a577a0130d5289a0c58aebb15da5668364",
+    "inserted_header_line_breaks": 0,
+    "working_records": 25,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "actin bnding lim protein (ablim).fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/actin bnding lim protein (ablim).fasta",
+    "source_sha256": "4b7198bc0e0d7ad2d0c191f910beba71b5243a4c3ef3552b3ff438244a1ef851",
+    "working_path": "working_copies/public_fastas/actin bnding lim protein (ablim).fasta",
+    "working_sha256": "4b7198bc0e0d7ad2d0c191f910beba71b5243a4c3ef3552b3ff438244a1ef851",
+    "inserted_header_line_breaks": 0,
+    "working_records": 4,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "actin bnding lim protein (ablim)Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/actin bnding lim protein (ablim)Alignment.fasta",
+    "source_sha256": "607aa9feef3eb617a4437f5be7127192be3c4ae602fee7d0362392676fa11aec",
+    "working_path": "working_copies/public_fastas/actin bnding lim protein (ablim)Alignment.fasta",
+    "working_sha256": "607aa9feef3eb617a4437f5be7127192be3c4ae602fee7d0362392676fa11aec",
+    "inserted_header_line_breaks": 0,
+    "working_records": 12,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "actin filament associated protein (afap1)Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/actin filament associated protein (afap1)Alignment.fasta",
+    "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "working_path": "working_copies/public_fastas/actin filament associated protein (afap1)Alignment.fasta",
+    "working_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "inserted_header_line_breaks": 0,
+    "working_records": 0,
+    "remaining_issue": "EMPTY SOURCE"
+  },
+  {
+    "filename": "adam metallopeptidase domain (adam).fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/adam metallopeptidase domain (adam).fasta",
+    "source_sha256": "4a5d0e5d56175eb7d83dee04060fca48bce7a05c0e7593d7b45e1dad1e0404a5",
+    "working_path": "working_copies/public_fastas/adam metallopeptidase domain (adam).fasta",
+    "working_sha256": "4a5d0e5d56175eb7d83dee04060fca48bce7a05c0e7593d7b45e1dad1e0404a5",
+    "inserted_header_line_breaks": 0,
+    "working_records": 7,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "adam8.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/adam8.fasta",
+    "source_sha256": "679778bd2e8dac87eda774275fdbcfc9afa0bf63f03fe57f4c708edf5cbb146d",
+    "working_path": "working_copies/public_fastas/adam8.fasta",
+    "working_sha256": "ebcdb6f102941898534049da9f04a3dc291228cb13c10e292529ea3568850053",
+    "inserted_header_line_breaks": 1,
+    "working_records": 20,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "anion exchanger family slc4a ( ae ).fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/anion exchanger family slc4a ( ae ).fasta",
+    "source_sha256": "1066213c6d1d850e6f6381e94792ea21af81b2eee25f044a139c335aeb4e63dd",
+    "working_path": "working_copies/public_fastas/anion exchanger family slc4a ( ae ).fasta",
+    "working_sha256": "1066213c6d1d850e6f6381e94792ea21af81b2eee25f044a139c335aeb4e63dd",
+    "inserted_header_line_breaks": 0,
+    "working_records": 31,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "anion exchanger family slc4a ( ae )Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/anion exchanger family slc4a ( ae )Alignment.fasta",
+    "source_sha256": "6188a010d735bc3dbf5082cb3a09c1fdc0c588f1f6c26b0dbc9aa36ca4cb4942",
+    "working_path": "working_copies/public_fastas/anion exchanger family slc4a ( ae )Alignment.fasta",
+    "working_sha256": "6188a010d735bc3dbf5082cb3a09c1fdc0c588f1f6c26b0dbc9aa36ca4cb4942",
+    "inserted_header_line_breaks": 0,
+    "working_records": 31,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "arfgap(ankyrin repeat and ph domain) (arap).fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/arfgap(ankyrin repeat and ph domain) (arap).fasta",
+    "source_sha256": "a4852245eca76ded798b2f19da89c6e7d7dd325e42a85485fddb18cb4ec9527a",
+    "working_path": "working_copies/public_fastas/arfgap(ankyrin repeat and ph domain) (arap).fasta",
+    "working_sha256": "a4852245eca76ded798b2f19da89c6e7d7dd325e42a85485fddb18cb4ec9527a",
+    "inserted_header_line_breaks": 0,
+    "working_records": 9,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "ccnd2.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/ccnd2.fasta",
+    "source_sha256": "5796ce28bacfc4dc54171a14d212a22dc251232940528034cf7e9e9d3e4f48df",
+    "working_path": "working_copies/public_fastas/ccnd2.fasta",
+    "working_sha256": "9a6cdeb20880dae0d21c56f02d2cd74e61ec053b82283a06c598dcab1cfb6fb8",
+    "inserted_header_line_breaks": 1,
+    "working_records": 35,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "chromobox homolog.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/chromobox homolog.fasta",
+    "source_sha256": "aa070343813722949632f3ab3620dd65f4dcd2da97490ad8c6857480b3b2604d",
+    "working_path": "working_copies/public_fastas/chromobox homolog.fasta",
+    "working_sha256": "aa070343813722949632f3ab3620dd65f4dcd2da97490ad8c6857480b3b2604d",
+    "inserted_header_line_breaks": 0,
+    "working_records": 9,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "col19a1.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/col19a1.fasta",
+    "source_sha256": "a334202457c62c00feff5740a7822974be71dbe81fe69d0d2ef9982ab990674e",
+    "working_path": "working_copies/public_fastas/col19a1.fasta",
+    "working_sha256": "5da369dc5be003de05c2844c7d0adccaecf3ab37f3d5281effc7b2c075590ebc",
+    "inserted_header_line_breaks": 1,
+    "working_records": 11,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "col1a1.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/col1a1.fasta",
+    "source_sha256": "cdc1a38b47e0697e8014d800ea66d4b55b593f82fffbc74bff6decf77ebaaa68",
+    "working_path": "working_copies/public_fastas/col1a1.fasta",
+    "working_sha256": "cdc1a38b47e0697e8014d800ea66d4b55b593f82fffbc74bff6decf77ebaaa68",
+    "inserted_header_line_breaks": 0,
+    "working_records": 10,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "col3a1.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/col3a1.fasta",
+    "source_sha256": "033f7c29d67ea65becf84af216724ab022569e023ff8d8b4d474a311b4301599",
+    "working_path": "working_copies/public_fastas/col3a1.fasta",
+    "working_sha256": "75a5ced87666fed98340276d9b36f9d458c6626235004c3c24e715e8b0988f15",
+    "inserted_header_line_breaks": 1,
+    "working_records": 9,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "collagen alpha (col).fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/collagen alpha (col).fasta",
+    "source_sha256": "f0df00cb82eb4194210a2f24aefae5c6658ee3f81e6645b3950eb12dcfdc92ef",
+    "working_path": "working_copies/public_fastas/collagen alpha (col).fasta",
+    "working_sha256": "f0df00cb82eb4194210a2f24aefae5c6658ee3f81e6645b3950eb12dcfdc92ef",
+    "inserted_header_line_breaks": 0,
+    "working_records": 6,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "collagen alpha (col)Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/collagen alpha (col)Alignment.fasta",
+    "source_sha256": "da3e1234d4327601768469d86cc8f97d087bca91d780707af5af95c04520df2c",
+    "working_path": "working_copies/public_fastas/collagen alpha (col)Alignment.fasta",
+    "working_sha256": "da3e1234d4327601768469d86cc8f97d087bca91d780707af5af95c04520df2c",
+    "inserted_header_line_breaks": 0,
+    "working_records": 11,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "cyclin-dependent kinase inhibitor familyAlignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/cyclin-dependent kinase inhibitor familyAlignment.fasta",
+    "source_sha256": "cfed2ab80b991d711509437ef559a6e88288a405d5c80bec9e4c42846e02e37a",
+    "working_path": "working_copies/public_fastas/cyclin-dependent kinase inhibitor familyAlignment.fasta",
+    "working_sha256": "cfed2ab80b991d711509437ef559a6e88288a405d5c80bec9e4c42846e02e37a",
+    "inserted_header_line_breaks": 0,
+    "working_records": 16,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "dual specificity phosphatase (dusp).fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/dual specificity phosphatase (dusp).fasta",
+    "source_sha256": "8d2bef4cd7e79edd10b4a47bda20ad014d77222d6101673cdf472d66c340e41a",
+    "working_path": "working_copies/public_fastas/dual specificity phosphatase (dusp).fasta",
+    "working_sha256": "8d2bef4cd7e79edd10b4a47bda20ad014d77222d6101673cdf472d66c340e41a",
+    "inserted_header_line_breaks": 0,
+    "working_records": 10,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "dual specificity phosphatase (dusp)Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/dual specificity phosphatase (dusp)Alignment.fasta",
+    "source_sha256": "a009c8c4cb622f89a34d3e18371fe65c94d20cc24d1f5b1f2dbdb9b133bfdadb",
+    "working_path": "working_copies/public_fastas/dual specificity phosphatase (dusp)Alignment.fasta",
+    "working_sha256": "a009c8c4cb622f89a34d3e18371fe65c94d20cc24d1f5b1f2dbdb9b133bfdadb",
+    "inserted_header_line_breaks": 0,
+    "working_records": 26,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "dusp5.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/dusp5.fasta",
+    "source_sha256": "99155a1b7e844c6d3136de3c73f70b37c9c1f48d2793aa8023bf2a880357a83b",
+    "working_path": "working_copies/public_fastas/dusp5.fasta",
+    "working_sha256": "0c4a43f79d17980124818b385a6d3849be6ac3d91692f2d5b946355c4aa4260d",
+    "inserted_header_line_breaks": 1,
+    "working_records": 21,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "eif4ebp1.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/eif4ebp1.fasta",
+    "source_sha256": "8c5932be95c5e91a8da841cdbac688a3ab761ab6102d161a2281976397296e57",
+    "working_path": "working_copies/public_fastas/eif4ebp1.fasta",
+    "working_sha256": "944c3a8b72d62697f46f5b180471db8e42663e685c4e58f022474a9f3210a4e1",
+    "inserted_header_line_breaks": 1,
+    "working_records": 19,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "erbb receptor protein-tyrosine kinase.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/erbb receptor protein-tyrosine kinase.fasta",
+    "source_sha256": "066610a2644d963de80d0ba7464ac4f0f9e656422b11a4a41867e4a9b9a7a266",
+    "working_path": "working_copies/public_fastas/erbb receptor protein-tyrosine kinase.fasta",
+    "working_sha256": "066610a2644d963de80d0ba7464ac4f0f9e656422b11a4a41867e4a9b9a7a266",
+    "inserted_header_line_breaks": 0,
+    "working_records": 2,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "erbb receptor protein-tyrosine kinaseAlignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/erbb receptor protein-tyrosine kinaseAlignment.fasta",
+    "source_sha256": "d34bc7ad4b3fa50d09d0ae5922f236963290c39d2651eb331547bf9a853d92c0",
+    "working_path": "working_copies/public_fastas/erbb receptor protein-tyrosine kinaseAlignment.fasta",
+    "working_sha256": "d34bc7ad4b3fa50d09d0ae5922f236963290c39d2651eb331547bf9a853d92c0",
+    "inserted_header_line_breaks": 0,
+    "working_records": 29,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "erbb3.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/erbb3.fasta",
+    "source_sha256": "9e23b01d7627fc547b7d058546d77be8d338ced1a32c31f7cdd3732a613987ee",
+    "working_path": "working_copies/public_fastas/erbb3.fasta",
+    "working_sha256": "7d77ec7936e40bcae96e5a7dea8ad12b78571feb1e36cd1cb7aff218d2e60fed",
+    "inserted_header_line_breaks": 1,
+    "working_records": 8,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "erbb4.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/erbb4.fasta",
+    "source_sha256": "0d0c4314e4d3f70b82479de3ebabf977b7f6fc2723302f437c61cf093a3d1c59",
+    "working_path": "working_copies/public_fastas/erbb4.fasta",
+    "working_sha256": "0d0c4314e4d3f70b82479de3ebabf977b7f6fc2723302f437c61cf093a3d1c59",
+    "inserted_header_line_breaks": 0,
+    "working_records": 9,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "far upstream element (fuse) binding protein family.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/far upstream element (fuse) binding protein family.fasta",
+    "source_sha256": "25f4d295382a9833a7b50317cdc928e07d04dd574545216aaa419af20ace151f",
+    "working_path": "working_copies/public_fastas/far upstream element (fuse) binding protein family.fasta",
+    "working_sha256": "25f4d295382a9833a7b50317cdc928e07d04dd574545216aaa419af20ace151f",
+    "inserted_header_line_breaks": 0,
+    "working_records": 53,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "fibrillar collagen family.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/fibrillar collagen family.fasta",
+    "source_sha256": "1d04cef5e7ece20d620c391167439ba2618d70e97295e40932467d62fdfb5e83",
+    "working_path": "working_copies/public_fastas/fibrillar collagen family.fasta",
+    "working_sha256": "1d04cef5e7ece20d620c391167439ba2618d70e97295e40932467d62fdfb5e83",
+    "inserted_header_line_breaks": 0,
+    "working_records": 0,
+    "remaining_issue": "EMPTY SOURCE"
+  },
+  {
+    "filename": "fibrillar collagen familyAlignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/fibrillar collagen familyAlignment.fasta",
+    "source_sha256": "249836013efd0e01829185cfa869174400bf00ff4b1ad250df4fd2f2598a6b0a",
+    "working_path": "working_copies/public_fastas/fibrillar collagen familyAlignment.fasta",
+    "working_sha256": "249836013efd0e01829185cfa869174400bf00ff4b1ad250df4fd2f2598a6b0a",
+    "inserted_header_line_breaks": 0,
+    "working_records": 40,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "formin-like.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/formin-like.fasta",
+    "source_sha256": "319c3f62c83402ddf72264cacf8ccba127b172d9f3be7ad62aaf235a59f60d91",
+    "working_path": "working_copies/public_fastas/formin-like.fasta",
+    "working_sha256": "319c3f62c83402ddf72264cacf8ccba127b172d9f3be7ad62aaf235a59f60d91",
+    "inserted_header_line_breaks": 0,
+    "working_records": 2,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "frizzled.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/frizzled.fasta",
+    "source_sha256": "6406efb68239fb97550acd7f3fc764edaefb57580e1f4e6876f31f17da5ba993",
+    "working_path": "working_copies/public_fastas/frizzled.fasta",
+    "working_sha256": "6406efb68239fb97550acd7f3fc764edaefb57580e1f4e6876f31f17da5ba993",
+    "inserted_header_line_breaks": 0,
+    "working_records": 8,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "frizzledAlignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/frizzledAlignment.fasta",
+    "source_sha256": "c0cef517ef0896ce35fee19fc1d61b9ff9ba2a9d7f69c514c2a8c1d52cf41e13",
+    "working_path": "working_copies/public_fastas/frizzledAlignment.fasta",
+    "working_sha256": "c0cef517ef0896ce35fee19fc1d61b9ff9ba2a9d7f69c514c2a8c1d52cf41e13",
+    "inserted_header_line_breaks": 0,
+    "working_records": 53,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "fzd4.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/fzd4.fasta",
+    "source_sha256": "9064de12c8a25d8dc86b4ea7bc83d4d929c4f55cb0280d751985d8cad4a99c83",
+    "working_path": "working_copies/public_fastas/fzd4.fasta",
+    "working_sha256": "9064de12c8a25d8dc86b4ea7bc83d4d929c4f55cb0280d751985d8cad4a99c83",
+    "inserted_header_line_breaks": 0,
+    "working_records": 19,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "g protein-coupled receptor kinase (grk).fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/g protein-coupled receptor kinase (grk).fasta",
+    "source_sha256": "7b246cd89a9049df9b3907274e800cf1b8a7a0d61d5d1f6277e59f5dd7dcd945",
+    "working_path": "working_copies/public_fastas/g protein-coupled receptor kinase (grk).fasta",
+    "working_sha256": "7b246cd89a9049df9b3907274e800cf1b8a7a0d61d5d1f6277e59f5dd7dcd945",
+    "inserted_header_line_breaks": 0,
+    "working_records": 10,
+    "remaining_issue": "SOURCE HAS UNKNOWN RESIDUE '_'"
+  },
+  {
+    "filename": "gli zinc-finger protein family.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/gli zinc-finger protein family.fasta",
+    "source_sha256": "6d3a13026d50b8be4ebfea6fcbde50c0e81333961f9a2d5f157ba96d270bbc78",
+    "working_path": "working_copies/public_fastas/gli zinc-finger protein family.fasta",
+    "working_sha256": "6d3a13026d50b8be4ebfea6fcbde50c0e81333961f9a2d5f157ba96d270bbc78",
+    "inserted_header_line_breaks": 0,
+    "working_records": 6,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "gli zinc-finger protein familyAlignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/gli zinc-finger protein familyAlignment.fasta",
+    "source_sha256": "84a6821926b3d8bb1415109b9f0d2c37bfb0eabae2cb9de0beb88cc65895ae40",
+    "working_path": "working_copies/public_fastas/gli zinc-finger protein familyAlignment.fasta",
+    "working_sha256": "84a6821926b3d8bb1415109b9f0d2c37bfb0eabae2cb9de0beb88cc65895ae40",
+    "inserted_header_line_breaks": 0,
+    "working_records": 29,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "gli3.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/gli3.fasta",
+    "source_sha256": "24a5fbf5970d28ca32aed3974402b15a0eff118fc36b4faa7460ac87bf04d4ac",
+    "working_path": "working_copies/public_fastas/gli3.fasta",
+    "working_sha256": "a84425811956e21d3c72ee111ca3999f0ee81aa89e043281d3e1f927e0e5cab6",
+    "inserted_header_line_breaks": 1,
+    "working_records": 13,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "glutamate receptor ionotropic (gri)Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/glutamate receptor ionotropic (gri)Alignment.fasta",
+    "source_sha256": "67b5b0f57908d79360be24c718bc78c7591c78737075fc3384673d2774cb3d40",
+    "working_path": "working_copies/public_fastas/glutamate receptor ionotropic (gri)Alignment.fasta",
+    "working_sha256": "67b5b0f57908d79360be24c718bc78c7591c78737075fc3384673d2774cb3d40",
+    "inserted_header_line_breaks": 0,
+    "working_records": 41,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "gria2.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/gria2.fasta",
+    "source_sha256": "055e71774b9127615e7762983a79c79b234d542e5c7a90cf4a0f68b0d51d16f0",
+    "working_path": "working_copies/public_fastas/gria2.fasta",
+    "working_sha256": "055e71774b9127615e7762983a79c79b234d542e5c7a90cf4a0f68b0d51d16f0",
+    "inserted_header_line_breaks": 0,
+    "working_records": 21,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "gria3.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/gria3.fasta",
+    "source_sha256": "077ac482aaaa1a230ba93904554c5530bc71c91a15f24b5ef1ce47baffc00f69",
+    "working_path": "working_copies/public_fastas/gria3.fasta",
+    "working_sha256": "077ac482aaaa1a230ba93904554c5530bc71c91a15f24b5ef1ce47baffc00f69",
+    "inserted_header_line_breaks": 0,
+    "working_records": 24,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "hedgehog family.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/hedgehog family.fasta",
+    "source_sha256": "bb253fe045b8bd7d50d0e889f7c02f12d8b7341f2e5efae19ab4fc54c1ebf992",
+    "working_path": "working_copies/public_fastas/hedgehog family.fasta",
+    "working_sha256": "bb253fe045b8bd7d50d0e889f7c02f12d8b7341f2e5efae19ab4fc54c1ebf992",
+    "inserted_header_line_breaks": 0,
+    "working_records": 32,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "histone deacetylase.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/histone deacetylase.fasta",
+    "source_sha256": "fe8267096567e3d50800eda48dd76ab9ef4ed284f08ea95ea4ed16845de7ce31",
+    "working_path": "working_copies/public_fastas/histone deacetylase.fasta",
+    "working_sha256": "fe8267096567e3d50800eda48dd76ab9ef4ed284f08ea95ea4ed16845de7ce31",
+    "inserted_header_line_breaks": 0,
+    "working_records": 6,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "hr gene family .fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/hr gene family .fasta",
+    "source_sha256": "529c35e5b7b6f4c465b0e575bd3902164a734ea2f24686f151c51851eaabdbd2",
+    "working_path": "working_copies/public_fastas/hr gene family .fasta",
+    "working_sha256": "529c35e5b7b6f4c465b0e575bd3902164a734ea2f24686f151c51851eaabdbd2",
+    "inserted_header_line_breaks": 0,
+    "working_records": 36,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "hr.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/hr.fasta",
+    "source_sha256": "74b89f7cd8bc5f300d9307195bf5d5be796a66856a6bfe79323a76b2ecfbc9ca",
+    "working_path": "working_copies/public_fastas/hr.fasta",
+    "working_sha256": "9c7246da4d9c178235c9432e0d7654cede4141c1508ab0a0ffc2a8ee01050fcf",
+    "inserted_header_line_breaks": 1,
+    "working_records": 68,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "inhibin.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/inhibin.fasta",
+    "source_sha256": "27733e6883358bf4f0731884f3c2dc5b319c5f0ef5e8cb95e15e788afd3650d6",
+    "working_path": "working_copies/public_fastas/inhibin.fasta",
+    "working_sha256": "27733e6883358bf4f0731884f3c2dc5b319c5f0ef5e8cb95e15e788afd3650d6",
+    "inserted_header_line_breaks": 0,
+    "working_records": 3,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "insulin-like growth factor-binding protein.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/insulin-like growth factor-binding protein.fasta",
+    "source_sha256": "90919b77723912f7121b237a3bb670d578169a01a5f76ae489ee04502d3a0986",
+    "working_path": "working_copies/public_fastas/insulin-like growth factor-binding protein.fasta",
+    "working_sha256": "90919b77723912f7121b237a3bb670d578169a01a5f76ae489ee04502d3a0986",
+    "inserted_header_line_breaks": 0,
+    "working_records": 5,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "itga3.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/itga3.fasta",
+    "source_sha256": "68f24e105140be7259dc5571d4eecc6d35e3fe1784eed12e167bea9923265c06",
+    "working_path": "working_copies/public_fastas/itga3.fasta",
+    "working_sha256": "f649cdd5e64bd444b7e275c3571c7dda86a5a34bcd8640af8d25d65e0af8d344",
+    "inserted_header_line_breaks": 1,
+    "working_records": 20,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "itga4.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/itga4.fasta",
+    "source_sha256": "e8fbb415256a1c478d0a53e2903a17181ce3f072a8666e28a59e38c0cfac2771",
+    "working_path": "working_copies/public_fastas/itga4.fasta",
+    "working_sha256": "e8fbb415256a1c478d0a53e2903a17181ce3f072a8666e28a59e38c0cfac2771",
+    "inserted_header_line_breaks": 0,
+    "working_records": 19,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "itgb6.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/itgb6.fasta",
+    "source_sha256": "ebee63d39d254c9c27853e9619eddcdfda6872773a8a4d92c563dcf499f5ae3c",
+    "working_path": "working_copies/public_fastas/itgb6.fasta",
+    "working_sha256": "6f7e2482f1136c3c498c7eda0c165217b05ef428176c1e917bd8d36cb44d092f",
+    "inserted_header_line_breaks": 1,
+    "working_records": 7,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "itgb7.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/itgb7.fasta",
+    "source_sha256": "d01178cc5d3309988686498d5505a6a45cdfabad15e9da858536bc59a1ce9732",
+    "working_path": "working_copies/public_fastas/itgb7.fasta",
+    "working_sha256": "3b011ce79ef8a272dd8ab550e33d5c05e9ac48be3a7953c4a80469e5e7b58cd7",
+    "inserted_header_line_breaks": 1,
+    "working_records": 38,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "kdm3b.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/kdm3b.fasta",
+    "source_sha256": "529c35e5b7b6f4c465b0e575bd3902164a734ea2f24686f151c51851eaabdbd2",
+    "working_path": "working_copies/public_fastas/kdm3b.fasta",
+    "working_sha256": "529c35e5b7b6f4c465b0e575bd3902164a734ea2f24686f151c51851eaabdbd2",
+    "inserted_header_line_breaks": 0,
+    "working_records": 36,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "kdm4b.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/kdm4b.fasta",
+    "source_sha256": "ae0d5a551bd938bd0c96b534da44f19430c8ebff0efbac2f82a4715ae8234471",
+    "working_path": "working_copies/public_fastas/kdm4b.fasta",
+    "working_sha256": "c0d16ef90f72ddf51eee727225fe6e7cc42f5dd6e04df742ab8f4dc817843d02",
+    "inserted_header_line_breaks": 1,
+    "working_records": 33,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "laptm4b.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/laptm4b.fasta",
+    "source_sha256": "35d19beced47e65c617cf0394f53736a740c0c122c3f343ceaebda360799ed41",
+    "working_path": "working_copies/public_fastas/laptm4b.fasta",
+    "working_sha256": "35d19beced47e65c617cf0394f53736a740c0c122c3f343ceaebda360799ed41",
+    "inserted_header_line_breaks": 0,
+    "working_records": 27,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "lef1.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/lef1.fasta",
+    "source_sha256": "fbe6f2ec086c76208cf5e9390922cae843e721b7b4ff37aa70e0e385d6ee26b0",
+    "working_path": "working_copies/public_fastas/lef1.fasta",
+    "working_sha256": "efa14dbc94b6725eeeaf426f293576fe50b9c9c4fe1466ee53db22f35c2330fc",
+    "inserted_header_line_breaks": 1,
+    "working_records": 12,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "lysosomal-associated transmembrane protein.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/lysosomal-associated transmembrane protein.fasta",
+    "source_sha256": "17f3012a45111e3349879e54bf842e0de6d0adc2a55c025e677baaecdaec18c7",
+    "working_path": "working_copies/public_fastas/lysosomal-associated transmembrane protein.fasta",
+    "working_sha256": "17f3012a45111e3349879e54bf842e0de6d0adc2a55c025e677baaecdaec18c7",
+    "inserted_header_line_breaks": 0,
+    "working_records": 5,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "lysosomal-associated transmembrane proteinAlignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/lysosomal-associated transmembrane proteinAlignment.fasta",
+    "source_sha256": "faa83fdb035d1dcefb2b2ee69a7bc8b11a7a574c637e1f20e5a59c899bbd165f",
+    "working_path": "working_copies/public_fastas/lysosomal-associated transmembrane proteinAlignment.fasta",
+    "working_sha256": "faa83fdb035d1dcefb2b2ee69a7bc8b11a7a574c637e1f20e5a59c899bbd165f",
+    "inserted_header_line_breaks": 0,
+    "working_records": 62,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "mapkbp1.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/mapkbp1.fasta",
+    "source_sha256": "c79d368fc1e4386726dfbc159292e5e01c5a8365e3d636e987d34bf42b051abf",
+    "working_path": "working_copies/public_fastas/mapkbp1.fasta",
+    "working_sha256": "7b8f60187132e0e23343ff6963777cfe64ca8af2dfc574e2416f94032742f034",
+    "inserted_header_line_breaks": 1,
+    "working_records": 52,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "myc proto-oncogene protein.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/myc proto-oncogene protein.fasta",
+    "source_sha256": "25123e85cfc6a1924dd1986c540a29b32adea0467fc073d3228aa8ca2be6b4ca",
+    "working_path": "working_copies/public_fastas/myc proto-oncogene protein.fasta",
+    "working_sha256": "25123e85cfc6a1924dd1986c540a29b32adea0467fc073d3228aa8ca2be6b4ca",
+    "inserted_header_line_breaks": 0,
+    "working_records": 4,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "myosin 1.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/myosin 1.fasta",
+    "source_sha256": "48a1a0f827948181f129ca956917b0b5947012a3505343e6050cfac4c8366dda",
+    "working_path": "working_copies/public_fastas/myosin 1.fasta",
+    "working_sha256": "48a1a0f827948181f129ca956917b0b5947012a3505343e6050cfac4c8366dda",
+    "inserted_header_line_breaks": 0,
+    "working_records": 31,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "neurod1.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/neurod1.fasta",
+    "source_sha256": "184f3b5aa98df87d0506754113aee08ed2f5f8706c70f6d59fbfe8958f492534",
+    "working_path": "working_copies/public_fastas/neurod1.fasta",
+    "working_sha256": "184f3b5aa98df87d0506754113aee08ed2f5f8706c70f6d59fbfe8958f492534",
+    "inserted_header_line_breaks": 0,
+    "working_records": 18,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "nfe2.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/nfe2.fasta",
+    "source_sha256": "e796a47ff52c8d4f28004af22053cbb12ae8042865e22bf758254b63d4d68828",
+    "working_path": "working_copies/public_fastas/nfe2.fasta",
+    "working_sha256": "e796a47ff52c8d4f28004af22053cbb12ae8042865e22bf758254b63d4d68828",
+    "inserted_header_line_breaks": 0,
+    "working_records": 14,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "nkx6-3.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/nkx6-3.fasta",
+    "source_sha256": "e58b193c1b25c251f17559f0bb913c8d2d04107f44c4c6fcdc0509c9e4a0b66f",
+    "working_path": "working_copies/public_fastas/nkx6-3.fasta",
+    "working_sha256": "1fae6cb1c9b29eaa3b632f90f2d4d495fe6f309079a9181607eda14f00ced778",
+    "inserted_header_line_breaks": 1,
+    "working_records": 29,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "nuclear factor (erythroid-derived 2)Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/nuclear factor (erythroid-derived 2)Alignment.fasta",
+    "source_sha256": "0bd2bd1a180e9336b1b9c57b4d4c6eb94e40745905480f18628e5a91324a5741",
+    "working_path": "working_copies/public_fastas/nuclear factor (erythroid-derived 2)Alignment.fasta",
+    "working_sha256": "0bd2bd1a180e9336b1b9c57b4d4c6eb94e40745905480f18628e5a91324a5741",
+    "inserted_header_line_breaks": 0,
+    "working_records": 39,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "pituitary homeobox (pitx).fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/pituitary homeobox (pitx).fasta",
+    "source_sha256": "cd7ff4f8c8932ec9829eeb49a94681a6c125a7fd293fb0a623b1a84a4b779db5",
+    "working_path": "working_copies/public_fastas/pituitary homeobox (pitx).fasta",
+    "working_sha256": "cd7ff4f8c8932ec9829eeb49a94681a6c125a7fd293fb0a623b1a84a4b779db5",
+    "inserted_header_line_breaks": 0,
+    "working_records": 2,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "ras homolog family (rho).fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/ras homolog family (rho).fasta",
+    "source_sha256": "c5ea3dc4a90d9c48e7fc44a62c77d682f23806264603e83293a0fa8c0d97bca0",
+    "working_path": "working_copies/public_fastas/ras homolog family (rho).fasta",
+    "working_sha256": "c5ea3dc4a90d9c48e7fc44a62c77d682f23806264603e83293a0fa8c0d97bca0",
+    "inserted_header_line_breaks": 0,
+    "working_records": 7,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "receptor expression-enhancing proteinAlignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/receptor expression-enhancing proteinAlignment.fasta",
+    "source_sha256": "6ac35be5f97a9ba1ba3f07113cc9434fb8c94ecaa98acad55b3c7f9e58d5159c",
+    "working_path": "working_copies/public_fastas/receptor expression-enhancing proteinAlignment.fasta",
+    "working_sha256": "6ac35be5f97a9ba1ba3f07113cc9434fb8c94ecaa98acad55b3c7f9e58d5159c",
+    "inserted_header_line_breaks": 0,
+    "working_records": 63,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "rhoj.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/rhoj.fasta",
+    "source_sha256": "4520bc573ff04c693abbaba361b1359df3b189334b2dcb100792f121135575c4",
+    "working_path": "working_copies/public_fastas/rhoj.fasta",
+    "working_sha256": "8836c8352fad354edcded1bd3e31f3e748489608cfb7e43641ca5b05452201d1",
+    "inserted_header_line_breaks": 1,
+    "working_records": 12,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "ring finger protein subfamily 2.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/ring finger protein subfamily 2.fasta",
+    "source_sha256": "a9afc271dcd65a3139da7712d60c41e365135c4d6a5b53831a6379b6bac63ffa",
+    "working_path": "working_copies/public_fastas/ring finger protein subfamily 2.fasta",
+    "working_sha256": "a9afc271dcd65a3139da7712d60c41e365135c4d6a5b53831a6379b6bac63ffa",
+    "inserted_header_line_breaks": 0,
+    "working_records": 23,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "ring finger protein subfamily 2Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/ring finger protein subfamily 2Alignment.fasta",
+    "source_sha256": "8840a1bf771b52466bfaf1875143df3b44f55031dda0b6db2dc4670de03c46cd",
+    "working_path": "working_copies/public_fastas/ring finger protein subfamily 2Alignment.fasta",
+    "working_sha256": "8840a1bf771b52466bfaf1875143df3b44f55031dda0b6db2dc4670de03c46cd",
+    "inserted_header_line_breaks": 0,
+    "working_records": 33,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "rnf223.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/rnf223.fasta",
+    "source_sha256": "a9e8456de3f9817955f1d7436a09b8238ed03d7c4087fab1321736115ce60320",
+    "working_path": "working_copies/public_fastas/rnf223.fasta",
+    "working_sha256": "2a5c733c6f55bc77fad57abbc2cd28aa7fe14c8fa6c21d70dbb253d10ce10f2f",
+    "inserted_header_line_breaks": 1,
+    "working_records": 39,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "she.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/she.fasta",
+    "source_sha256": "355f8db9800400406d58d230a165dc42660b4203c9bf168bcb9eb00095d45371",
+    "working_path": "working_copies/public_fastas/she.fasta",
+    "working_sha256": "355f8db9800400406d58d230a165dc42660b4203c9bf168bcb9eb00095d45371",
+    "inserted_header_line_breaks": 0,
+    "working_records": 32,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "slc26a8.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/slc26a8.fasta",
+    "source_sha256": "138c1bd1aa856eb09d31e375bb3b1a1c0280fd6d96424d7cf429f046440ca4e5",
+    "working_path": "working_copies/public_fastas/slc26a8.fasta",
+    "working_sha256": "d30fe8f3568bad03ed4cd156bc00607f703085a2057bfeb8ce7a8101f5ec5fb1",
+    "inserted_header_line_breaks": 1,
+    "working_records": 20,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "slc39a14.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/slc39a14.fasta",
+    "source_sha256": "4bc01dbd861d00c1b0b8efba1fd4057d7ccffb0f201d0fdc24f60da3740028ba",
+    "working_path": "working_copies/public_fastas/slc39a14.fasta",
+    "working_sha256": "a0a94d9fa57c10d37edab47513a542919df4416bc17d5191a8c38a357abb26c9",
+    "inserted_header_line_breaks": 1,
+    "working_records": 18,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "slc4a1.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/slc4a1.fasta",
+    "source_sha256": "2bed418bf6c9c933347e09347185e92eee610f60a99ba125c06f9fd0711e40ce",
+    "working_path": "working_copies/public_fastas/slc4a1.fasta",
+    "working_sha256": "fb898273d2af1c0ac175bd5e560b6175cff4c314cdb0f5baf52c20ef9ac6fff1",
+    "inserted_header_line_breaks": 1,
+    "working_records": 8,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "slc4a10.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/slc4a10.fasta",
+    "source_sha256": "3cdb9c91dc270074f98e33304afa1f6944fbc68cb4d63f82d6d213b29d9f4fb2",
+    "working_path": "working_copies/public_fastas/slc4a10.fasta",
+    "working_sha256": "c0bceaca7f26906d6003d7237e10f71753f85605d5d054cb939ad866aa13027e",
+    "inserted_header_line_breaks": 1,
+    "working_records": 7,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "slc4a2.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/slc4a2.fasta",
+    "source_sha256": "b7a1fd26e2913e791b48bf1b92253d6039ce2795e5ec2763ddc4516e08796d18",
+    "working_path": "working_copies/public_fastas/slc4a2.fasta",
+    "working_sha256": "0788d1130257daa04de4364adeaf7251c32e5f6c211763c1f0eaae1c10c453ec",
+    "inserted_header_line_breaks": 1,
+    "working_records": 10,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "slc4a3.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/slc4a3.fasta",
+    "source_sha256": "c20deb0d1a7759e0d6dcab36bec6c4c532c3c1df01d0e30441d55ee29c374add",
+    "working_path": "working_copies/public_fastas/slc4a3.fasta",
+    "working_sha256": "8b79a2cac78278f8feae97e3d2a74f59d31ed56c14091d0581d00ee1a5386478",
+    "inserted_header_line_breaks": 1,
+    "working_records": 37,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "slc4a5.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/slc4a5.fasta",
+    "source_sha256": "ed108bc49df2a644bcede1742fd6d8eb6908f444258b63ed57b1af6c8d295f82",
+    "working_path": "working_copies/public_fastas/slc4a5.fasta",
+    "working_sha256": "51a15eedd3b85aa5e5b5709da837911ee9ec97c84a033df3703979f1bf01814a",
+    "inserted_header_line_breaks": 1,
+    "working_records": 8,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "slc4a8.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/slc4a8.fasta",
+    "source_sha256": "0be877bec420ed6b5f985b9ab9f2d1888f7b30c7960ac8731fac6e45e461e945",
+    "working_path": "working_copies/public_fastas/slc4a8.fasta",
+    "working_sha256": "a2e649b97010a42c8790996ba5aa7e77502a34ad4b26ffbbc523ffbdaf1470d2",
+    "inserted_header_line_breaks": 1,
+    "working_records": 10,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "solute carrier family 26 (slc26a).fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/solute carrier family 26 (slc26a).fasta",
+    "source_sha256": "7c0bac827521fe898b5f309ada4a0a6ba840ee4b1dc4f53b21a63920615e9286",
+    "working_path": "working_copies/public_fastas/solute carrier family 26 (slc26a).fasta",
+    "working_sha256": "7c0bac827521fe898b5f309ada4a0a6ba840ee4b1dc4f53b21a63920615e9286",
+    "inserted_header_line_breaks": 0,
+    "working_records": 13,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "solute carrier family 26 (slc26a)Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/solute carrier family 26 (slc26a)Alignment.fasta",
+    "source_sha256": "aa27aecef4734814387986f8692e554631e4c4f3bd805aeefa691496f28923f3",
+    "working_path": "working_copies/public_fastas/solute carrier family 26 (slc26a)Alignment.fasta",
+    "working_sha256": "aa27aecef4734814387986f8692e554631e4c4f3bd805aeefa691496f28923f3",
+    "inserted_header_line_breaks": 0,
+    "working_records": 20,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "solute carrier family 38a.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/solute carrier family 38a.fasta",
+    "source_sha256": "48587277aa85b2972b64b49f2bfa3636ff87f4bac52a928cddeb4028e197cfb0",
+    "working_path": "working_copies/public_fastas/solute carrier family 38a.fasta",
+    "working_sha256": "48587277aa85b2972b64b49f2bfa3636ff87f4bac52a928cddeb4028e197cfb0",
+    "inserted_header_line_breaks": 0,
+    "working_records": 22,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "sorbin and sh3 domain containing (sh3rf)Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/sorbin and sh3 domain containing (sh3rf)Alignment.fasta",
+    "source_sha256": "8288f18ec4e6f60786ae9a54521a2188ec076f4593dc253aba0c8a72975b97bb",
+    "working_path": "working_copies/public_fastas/sorbin and sh3 domain containing (sh3rf)Alignment.fasta",
+    "working_sha256": "8288f18ec4e6f60786ae9a54521a2188ec076f4593dc253aba0c8a72975b97bb",
+    "inserted_header_line_breaks": 0,
+    "working_records": 16,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "sp1 c2h2-type zinc-finger protein family.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/sp1 c2h2-type zinc-finger protein family.fasta",
+    "source_sha256": "5fa55c941fa91c088416df72e8bd89fb8f884d40a1245a37d0feab9b60f46330",
+    "working_path": "working_copies/public_fastas/sp1 c2h2-type zinc-finger protein family.fasta",
+    "working_sha256": "5fa55c941fa91c088416df72e8bd89fb8f884d40a1245a37d0feab9b60f46330",
+    "inserted_header_line_breaks": 0,
+    "working_records": 2,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "sp3.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/sp3.fasta",
+    "source_sha256": "58a00be1fe30bd59aa2e39335142ba63ca8c24e74d81e14cb36283ad7c8687a6",
+    "working_path": "working_copies/public_fastas/sp3.fasta",
+    "working_sha256": "58a00be1fe30bd59aa2e39335142ba63ca8c24e74d81e14cb36283ad7c8687a6",
+    "inserted_header_line_breaks": 0,
+    "working_records": 9,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "sphingosine-1-phosphate receptorAlignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/sphingosine-1-phosphate receptorAlignment.fasta",
+    "source_sha256": "91c1f4433f3512ec4c0513a4beffe527878300284deb69ae8c283071378d575f",
+    "working_path": "working_copies/public_fastas/sphingosine-1-phosphate receptorAlignment.fasta",
+    "working_sha256": "91c1f4433f3512ec4c0513a4beffe527878300284deb69ae8c283071378d575f",
+    "inserted_header_line_breaks": 0,
+    "working_records": 35,
+    "remaining_issue": "SOURCE ALIGNMENT TRUNCATED"
+  },
+  {
+    "filename": "src homology 2 domain containing adaptor protein.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/src homology 2 domain containing adaptor protein.fasta",
+    "source_sha256": "a5738bc0c5bad179fdb28447c673f2c763c26b4605ca22300092dc10c74c16fc",
+    "working_path": "working_copies/public_fastas/src homology 2 domain containing adaptor protein.fasta",
+    "working_sha256": "a5738bc0c5bad179fdb28447c673f2c763c26b4605ca22300092dc10c74c16fc",
+    "inserted_header_line_breaks": 0,
+    "working_records": 6,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "tcf7l2.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/tcf7l2.fasta",
+    "source_sha256": "1735896b215b6b28281cbe0e68549e4c1b0eee7020c5eaf537d50d3b75997d32",
+    "working_path": "working_copies/public_fastas/tcf7l2.fasta",
+    "working_sha256": "602213b29847ad3e4420a3f647486015eae7af49ec19f8c9025b94f278b6287e",
+    "inserted_header_line_breaks": 1,
+    "working_records": 12,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "tensin.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/tensin.fasta",
+    "source_sha256": "63a9bab45c5fff98c9eddb93591ee7f87b816353ace9d7105b9a4b32a000d0a5",
+    "working_path": "working_copies/public_fastas/tensin.fasta",
+    "working_sha256": "63a9bab45c5fff98c9eddb93591ee7f87b816353ace9d7105b9a4b32a000d0a5",
+    "inserted_header_line_breaks": 0,
+    "working_records": 6,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "wdr domain 62.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/wdr domain 62.fasta",
+    "source_sha256": "c1ddf1332a1bc0f7be03f0437e96f3d9f230a3c92b39bf9a995626e6143515da",
+    "working_path": "working_copies/public_fastas/wdr domain 62.fasta",
+    "working_sha256": "c1ddf1332a1bc0f7be03f0437e96f3d9f230a3c92b39bf9a995626e6143515da",
+    "inserted_header_line_breaks": 0,
+    "working_records": 51,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "wdr domain 62Alignment.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/wdr domain 62Alignment.fasta",
+    "source_sha256": "84a6821926b3d8bb1415109b9f0d2c37bfb0eabae2cb9de0beb88cc65895ae40",
+    "working_path": "working_copies/public_fastas/wdr domain 62Alignment.fasta",
+    "working_sha256": "84a6821926b3d8bb1415109b9f0d2c37bfb0eabae2cb9de0beb88cc65895ae40",
+    "inserted_header_line_breaks": 0,
+    "working_records": 29,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "wdr62.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/wdr62.fasta",
+    "source_sha256": "bc1d9575a119e6d37d963ec7442eca9f238756dcf16472b8b2dd2f7f79ddde93",
+    "working_path": "working_copies/public_fastas/wdr62.fasta",
+    "working_sha256": "52bc602e695b63f2b36bbdec1e4157a82783d6063d2a531c3a806f9092cf79fc",
+    "inserted_header_line_breaks": 1,
+    "working_records": 52,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "zinc finger protein 386.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/zinc finger protein 386.fasta",
+    "source_sha256": "ff14d78d3f3912ecb2f225df7a03bc8ba9135eca4bc1814ef9b7fc28c29b33a9",
+    "working_path": "working_copies/public_fastas/zinc finger protein 386.fasta",
+    "working_sha256": "ff14d78d3f3912ecb2f225df7a03bc8ba9135eca4bc1814ef9b7fc28c29b33a9",
+    "inserted_header_line_breaks": 0,
+    "working_records": 1,
+    "remaining_issue": ""
+  },
+  {
+    "filename": "zinc finger protein, subfamily 1a.fasta",
+    "source_path": "online_sources/PAHG_GitHub_83e042106746/zinc finger protein, subfamily 1a.fasta",
+    "source_sha256": "e52164593c3f45dbb2ef5203b452c6b0a68aa45eb1f81b9124be1b085762e232",
+    "working_path": "working_copies/public_fastas/zinc finger protein, subfamily 1a.fasta",
+    "working_sha256": "e52164593c3f45dbb2ef5203b452c6b0a68aa45eb1f81b9124be1b085762e232",
+    "inserted_header_line_breaks": 0,
+    "working_records": 1,
+    "remaining_issue": ""
+  }
+]

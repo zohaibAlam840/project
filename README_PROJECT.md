@@ -1,55 +1,84 @@
-# PAHG MPhil project inventory
+# PAHG MPhil project data inventory
 
-The master workbook now lists **all 221 families in the live PAHG family table**. It is a catalogue and research progress tracker. A family appearing in the catalogue does not mean its analysis files or downloadable trees are available locally.
+This project tracks all **221 official PAHG gene families**. The source data is
+preserved separately from working copies, and every family has an explicit
+evidence-based status. Read [DATA_CLEANING_REPORT.md](DATA_CLEANING_REPORT.md)
+for the findings and what is still needed.
 
-## What the workbook shows
+## Current result (18 November 2026)
 
-- **Master inventory:** 221 PAHG IDs and names, year, taxa, published sequence count, function, local file source, FASTA counts, alignment checks, tree availability, validation state, and next action. The three families with your files appear first, then the 15 GitHub candidates, then the 203 catalogue-only entries.
-- **Tree files:** the six supplied ML/NJ Newick files, MEGA sessions and analysis settings, alignment size, parse and leaf-label checks, and the outstanding source comparison.
-- **Online data:** the 15 public GitHub file candidates, URLs, pinned commit hashes, record counts, and quality flags.
-- **Review log:** specific gaps and checks. PAHG ID matching for the supplied families is resolved; file-to-analysis linkage for online candidates still requires review.
-- **Original files:** the earlier SHA256 manifest for your original files and their preserved copies.
-- **How to read:** plain-language definitions and sources.
+| Check | Result |
+| --- | ---: |
+| Official PAHG family rows | 221 |
+| Official FASTA downloads captured | 442 (one raw, one alignment per family) |
+| Official alignments incomplete | 121 |
+| Equal-length alignments requiring count or pairing review | 32 |
+| Datasets passing sequence-level checks | 68 |
+| Families with separately supplied ML/NJ Newick trees | 3 (6 trees) |
+| Additional PAHG GitHub FASTAs verified against pinned commit | 93 |
 
-## Current evidence
+The 68 sequence-level passes mean: every aligned record has the same length;
+the raw, aligned, and published record counts agree; the multisets of raw and
+ungapped aligned protein sequences match exactly; and no raw-format issue was
+found. This **does not** validate the published trees or MEGA analyses. PAHG's
+download endpoints do not supply source ML/NJ tree files. The six supplied
+trees pass parsing, label checks, and exact NEXUS round trips, but still need
+comparison to their original MEGA analyses. The COL NJ tree retains one
+negative branch length for review.
 
-PAHG's live family table lists 221 entries. Your folder names match PAHG SLC4 **ID 1**, fibrillar collagens **ID 2**, and ERBB **ID 3**. We located 15 other name-matched candidate families in the public [PAHG GitHub repository](https://github.com/PAHG-Database/PAHG) at commit `83e0421067465e6855371fb65f99384855d23d80`. These have alignments; nine have matching-name raw FASTA files. The GitHub FASTA files need pairing and provenance review before being treated as the exact published analysis datasets. The other 203 families currently have catalogue metadata only in this workspace.
+## Files
 
-The six supplied Newick trees all parse. Each has the same number of leaves as its associated alignment (37 SLC4, 40 COL, 29 ERBB), and the tip-label sets match after normalizing spaces to underscores. All three supplied alignments have equal-length records. We created six separate NEXUS **tree** files in `working_copies/`. Each embeds its original Newick expression unchanged; DendroPy independently parses both formats and confirms matching topology, labels, branch lengths, support labels, and comments. The working Newick files also hash-match your originals and preserved snapshots. MEGA session metadata confirms the ML/NJ method, model, and bootstrap replicate count. **The source MEGA tree itself has not yet been compared with each exported tree, and the published figures have not been checked.** The original supplied `.nex` files are alignment files and remain unchanged.
+- `families/` and `families.zip`: user-supplied originals, unchanged.
+- `original_snapshot/`: preserved copies and SHA256 provenance.
+- `online_sources/PAHG_live_2026-11-18/`: 442 official PAHG download responses,
+  named by confirmed family ID. Do not edit these.
+- `online_sources/PAHG_GitHub_83e042106746/`: all 93 public FASTAs from pinned
+  PAHG GitHub commit `83e0421067465e6855371fb65f99384855d23d80`, checked
+  against Git blob hashes. These are supplemental source evidence.
+- `working_copies/pahg_live_fastas/`: official FASTA working copies. Twelve
+  missing header line breaks were inserted and three text preambles removed;
+  the source downloads remain unchanged.
+- `working_copies/public_fastas/`: GitHub FASTA working copies. Twenty-eight
+  missing header line breaks were inserted; source files remain unchanged.
+- `working_copies/candidate_*`: six NEXUS tree copies and supplied-family
+  working files.
+- `inventory/PAHG_master_inventory.xlsx`: readable master workbook, also
+  delivered under `outputs/2026-11-18-data-cleaning/`.
+- `inventory/master_221_families.csv` and `.json`: machine-readable master.
+- `inventory/pahg_live_audit.csv` and `.json`: per-family download, count,
+  alignment, sequence-pairing, issue, and SHA256 checks.
+- `inventory/pairing_review_details.csv` and `.json`: the specific records
+  requiring review in the 32 equal-length but discordant datasets.
+- `inventory/pahg_live_download_manifest.json`: download URL, date, path,
+  status, byte size, and hash for each official response.
+- `inventory/public_fasta_audit.csv` and `.json`: all 93 GitHub FASTA checks.
 
-The COL NJ tree contains one negative branch length (`-0.000250018030820602`) for `Mus_musculus_COL3A1`. The NEXUS copy preserves it exactly. The value needs scientific review in MEGA before publication; it was not changed automatically.
+## Rebuild
 
-## Files and provenance
-
-- `families/families/`, `families.zip`: your originals; left unchanged.
-- `original_snapshot/`: preserved copies of your original files.
-- `working_copies/`: standardized names for the supplied files; tree content unchanged.
-- `online_sources/`: public GitHub FASTA candidates, separate from your files.
-- `inventory/pahg_live_catalogue.json`: captured 221-row PAHG table, source URL, and retrieval date (2026-11-15).
-- `inventory/master_221_families.csv` and `.json`: machine-readable master records.
-- `inventory/tree_validation.json`: six parse and label-check results.
-- `inventory/nexus_conversion.json`: hashes, NEXUS round-trip results, MEGA metadata checks, and the negative branch flag.
-- `inventory/PAHG_master_inventory.xlsx`: formatted workbook.
-
-The live table's per-family sequence counts are copied as shown on 2026-11-15. They are not the same measure as the record counts in a local FASTA file. The live rows currently sum to 15,389, whereas the 2025 [PAHG paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12522930/) reports 15,231 sequences; a database update or definition difference may explain this, but that has not been established.
-
-## Rebuild the workbook
-
-From the project root, run the scripts in this order:
+The scripts run from the project root. The download scripts are resumable and
+reuse verified local captures.
 
 ```powershell
 py -m pip install -r requirements.txt
+py project_tools/fetch_public_fastas.py
+py project_tools/normalize_public_fastas.py
+py project_tools/audit_public_fastas.py
+py project_tools/fetch_pahg_live.py
+py project_tools/audit_pahg_live.py
+py project_tools/review_pahg_pairing.py
 py project_tools/validate_supplied_trees.py
 py project_tools/convert_nexus.py
 py project_tools/build_full_inventory.py
 node project_tools/build_workbook.mjs
 ```
 
-The workbook builder requires `@oai/artifact-tool` (the current `project_tools/node_modules` junction points to the Codex bundled runtime). The capture in `inventory/pahg_live_catalogue.json` keeps this build reproducible without refetching PAHG. To capture a newer PAHG release, recrawl the official table and rerun the build, checking IDs and file-name matches again.
+`build_workbook.mjs` uses the Codex bundled `@oai/artifact-tool` runtime. The
+existing `project_tools/node_modules` link points to that runtime. Do not
+commit changes inside that dependency link.
 
-## Next research work
+## Sources
 
-1. Review the COL NJ negative branch length in MEGA and document whether it is intentional.
-2. Compare each of the six trees with its source MEGA analysis and published figure; record any differences.
-3. For online candidates, verify which FASTA files belong to each PAHG analysis and request/retrieve ML/NJ source trees. A PDF image alone cannot reliably recover the original branch lengths and support values.
-4. Continue acquiring source files for the remaining 203 catalogue entries, then repeat the same validation process.
+- [PAHG family table](https://www.pahgncb.com/genomedb/public/genefamilies)
+- [PAHG downloads](https://www.pahgncb.com/genomedb/public/downloads)
+- [PAHG GitHub repository](https://github.com/PAHG-Database/PAHG/tree/83e0421067465e6855371fb65f99384855d23d80/public)
+- [PAHG publication](https://pmc.ncbi.nlm.nih.gov/articles/PMC12522930/)

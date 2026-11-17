@@ -49,3 +49,6 @@ S1PR,,review,Alignment FASTA records have different lengths; inspect alignment s
 WDR62,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
 WDR62,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
 COL,NJ,review,Original NJ tree has a negative branch length (-0.000250018030820602) for Mus_musculus_COL3A1; preserved exactly in NEXUS. Review in MEGA and document interpretation.,open
+ALL,All,source incomplete,"121 of 221 official PAHG alignment downloads are incomplete: 120 end with a shortened final record and one reaches 65,535 bytes with records missing. Do not pad or present these as full source alignments.",open
+ALL,All,pairing review,"32 official alignments have equal-length records but fail at least one published-count, raw-sequence, or raw-format consistency check.",open
+ALL,All,trees missing,"68 official family datasets pass alignment format, sequence-count and exact ungapped-sequence checks; PAHG does not provide source ML/NJ tree downloads. Six trees were supplied separately for three of these families.",open

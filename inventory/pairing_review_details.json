@@ -1,0 +1,722 @@
+[
+  {
+    "pahg_id": 23,
+    "family_name": "Acid Sensing Ion Channel Family (ASIC)",
+    "published_count": 60,
+    "raw_records": 60,
+    "aligned_records": 61,
+    "exact_sequence_matches": 60,
+    "raw_unmatched_count": 0,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [],
+    "aligned_unmatched_headers": [
+      "Xenopus_tropicalis-ASIC2(ENSXETP_53010)"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 238,
+    "family_name": "Antizyme Inhibitor (AZIN)_(ODC)",
+    "published_count": 55,
+    "raw_records": 54,
+    "aligned_records": 55,
+    "exact_sequence_matches": 51,
+    "raw_unmatched_count": 3,
+    "aligned_unmatched_count": 4,
+    "raw_unmatched_headers": [
+      "Tetraodon nigroviridis_AZIN1b(ENSTNIP_12033)",
+      "Ciona savignyi_(ENSCSAVP_17223)",
+      "Trichoplax adhaerens_(XP_002114448)"
+    ],
+    "aligned_unmatched_headers": [
+      "Takifugu_rubripes_AZIN1_b",
+      "Tetraodon_nigroviridis_AZIN1_a",
+      "Hydra_magnipapillata_AZIN1",
+      "Trichoplax_adhaerens_ODC1"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 24,
+    "family_name": "ATPase H+ transporting V0 Subunit A (ATP6V0A)",
+    "published_count": 74,
+    "raw_records": 74,
+    "aligned_records": 74,
+    "exact_sequence_matches": 73,
+    "raw_unmatched_count": 1,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [
+      "Bos taurus_TCIRG1(ENSBTAP_367)"
+    ],
+    "aligned_unmatched_headers": [
+      "Bos_taurus-TCIRG1(ENSBTAP_367)"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 188,
+    "family_name": "ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G (ATP6V1G)",
+    "published_count": 40,
+    "raw_records": 39,
+    "aligned_records": 40,
+    "exact_sequence_matches": 39,
+    "raw_unmatched_count": 0,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [],
+    "aligned_unmatched_headers": [
+      "Myotis_lucifugus_ATP6V1G1"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 45,
+    "family_name": "Bromodomain containing (BRD)_(BAZ)_(BPTF)_(KAT)_(CERC)",
+    "published_count": 136,
+    "raw_records": 136,
+    "aligned_records": 137,
+    "exact_sequence_matches": 131,
+    "raw_unmatched_count": 5,
+    "aligned_unmatched_count": 6,
+    "raw_unmatched_headers": [
+      "Rattus norvegicus_BAZ2A(ENSRNOP_41941)",
+      "Oryzias latipes_BAZ2B(ENSORLP_5333)",
+      "Tetraodon nigroviridis_BPTFb(ENSTNIP_9216)",
+      "Strongylocentrotus purpuratus_(XP_800572)",
+      "Apis mellifera_(XP_393011)"
+    ],
+    "aligned_unmatched_headers": [
+      "Apis_mellifera_(Honey_bee)CECR2XP_393011",
+      "Macaca_mulatta_(Macaque)BAZ1A(Chromosome_7:_97710544-97840527)",
+      "Oryzias_latipes(Medaka)BAZ2B(Chromosome_3:_13111763-13141291)",
+      "Rattus_norvegicus(Rat)BAZ2A(Chromosome_7:_1400491-1420646)",
+      "Strongylocentrotus_purpuratus_(Sea_urchin)CECR2XP_800572",
+      "Tetraodon_nigroviridis(Tetraodon)BPTF(b)(Chromosome_Un_random:_86556029-86579303)"
+    ],
+    "raw_format_issue": "1 duplicate full headers",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 25,
+    "family_name": "Calcium voltage-gated channel auxiliary beta subunits (CACNB)",
+    "published_count": 46,
+    "raw_records": 130,
+    "aligned_records": 46,
+    "exact_sequence_matches": 45,
+    "raw_unmatched_count": 85,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [
+      "Branchiostoma floridae_CACNB1(XP_002598413)",
+      "Homo sapiens_CHST8(ENSP_262622)",
+      "Macaca mulatta_CHST8(ENSMMUP_23680)",
+      "Mus musculus_CHST8(ENSMUSP_77752)",
+      "Rattus norvegicus_CHST8(ENSRNOP_30833)",
+      "Canis familiaris_CHST8(ENSCAFP_32794)",
+      "Ornithorhynchus anatinus_CHST8(ENSOANP_12935)",
+      "Gallus gallus_CHST8(ENSGALP_7829)",
+      "Anolis carolinensis_CHST8(ENSACAP_13299)",
+      "Danio rerio_CHST8b(ENSDARP_65480)",
+      "Danio rerio_CHST8a(ENSDARP_101160)",
+      "Homo sapiens_CHST9(ENSP_284224)",
+      "Macaca mulatta_CHST9(ENSMMUP_15487)",
+      "Mus musculus_CHST9(ENSMUSP_49975)",
+      "Rattus norvegicus_CHST9(ENSRNOP_21253)",
+      "Canis familiaris_CHST9(ENSCAFP_26776)",
+      "Monodelphis domestica_CHST9(ENSMODP_26879)",
+      "Ornithorhynchus anatinus_CHST9(ENSOANP_7900)",
+      "Gallus gallus_CHST9(ENSGALP_36019)",
+      "Anolis carolinensis_CHST9(ENSACAP_2101)",
+      "Homo sapiens_CHST10(ENSP_264249)",
+      "Macaca mulatta_CHST10(ENSMMUP_28505)",
+      "Mus musculus_CHST10(ENSMUSP_27249)",
+      "Rattus norvegicus_CHST10(ENSRNOP_17714)",
+      "Canis familiaris_CHST10(ENSCAFP_3253)",
+      "Monodelphis domestica_CHST10(ENSMODP_1798)",
+      "Ornithorhynchus anatinus_CHST10(ENSOANP_671)",
+      "Gallus gallus_CHST10(ENSGALP_27024)",
+      "Anolis carolinensis_CHST10(ENSACAP_7944)",
+      "Danio rerio_CHST10(ENSDARP_47210)",
+      "Takifugu rubripes_CHST10(ENSTRUP_17887)",
+      "Tetraodon nigroviridis_CHST10(ENSTNIP_17544)",
+      "Homo sapiens_CHST11(ENSP_305725)",
+      "Macaca mulatta_CHST11(ENSMMUP_38749)",
+      "Mus musculus_CHST11(ENSMUSP_45349)",
+      "Rattus norvegicus_CHST11(ENSRNOP_12017)",
+      "Canis familiaris_CHST11(ENSCAFP_32962)",
+      "Monodelphis domestica_CHST11(ENSMODP_2577)",
+      "Ornithorhynchus anatinus_CHST11(ENSOANP_8812)",
+      "Gallus gallus_CHST11(ENSGALP_29933)",
+      "Anolis carolinensis_CHST11(ENSACAP_15637)",
+      "Danio rerio_CHST11(ENSDARP_42962)",
+      "Takifugu rubripes_CHST11(ENSTRUP_19795)",
+      "Tetraodon nigroviridis_CHST11(ENSTNIP_8100)",
+      "Homo sapiens_CHST12(ENSP_258711)",
+      "Macaca mulatta_CHST12(ENSMMUP_8533)",
+      "Mus musculus_CHST12(ENSMUSP_41663)",
+      "Monodelphis domestica_CHST12(ENSMODP_36477)",
+      "Gallus gallus_CHST12(ENSGALP_6789)",
+      "Anolis carolinensis_CHST12(ENSACAP_8672)",
+      "Danio rerio_CHST12a(ENSDARP_49006)",
+      "Danio rerio_CHST12b(ENSDARP_99344)",
+      "Takifugu rubripes_CHST12b(ENSTRUP_4317)",
+      "Takifugu rubripes_CHST12a(ENSTRUP_28294)",
+      "Tetraodon nigroviridis_CHST12a(ENSTNIP_7301)",
+      "Tetraodon nigroviridis_CHST12b(ENSTNIP_9191)",
+      "Homo sapiens_CHST13(ENSP_317404)",
+      "Macaca mulatta_CHST13(ENSMMUP_39807)",
+      "Mus musculus_CHST13(ENSMUSP_64897)",
+      "Rattus norvegicus_CHST13(ENSRNOP_37933)",
+      "Canis familiaris_CHST13(ENSCAFP_5769)",
+      "Monodelphis domestica_CHST13(ENSMODP_9471)",
+      "Ornithorhynchus anatinus_CHST13(ENSOANP_7078)",
+      "Anolis carolinensis_CHST13(ENSACAP_13721)",
+      "Danio rerio_CHST13(ENSDARP_5165)",
+      "Takifugu rubripes_CHST13(ENSTRUP_1373)",
+      "Tetraodon nigroviridis_CHST13(ENSTNIP_10173)",
+      "Homo sapiens_CHST14(ENSP_307297)",
+      "Macaca mulatta_CHST14(ENSMMUP_22578)",
+      "Mus musculus_CHST14(ENSMUSP_99579)",
+      "Canis familiaris_CHST14(ENSCAFP_13447)",
+      "Anolis carolinensis_CHST14(ENSACAP_18648)",
+      "Danio rerio_CHST14(ENSDARP_63151)",
+      "Takifugu rubripes_CHST14(ENSTRUP_40125)",
+      "Tetraodon nigroviridis_CHST14(ENSTNIP_20798)",
+      "Nematostella vectensis_(XP_001637045)",
+      "Drosophila melanogaster_(FBpp0080500)",
+      "Ciona intestinalis_(ENSCINP_20176)",
+      "Branchiostoma floridae_(XP_002597379)",
+      "Strongylocentrotus purpuratus_(XP_796013)",
+      "Ciona intestinalis_(ENSCINP_20139)",
+      "Ciona intestinalis_(ENSCINP_24660)",
+      "Strongylocentrotus purpuratus_(XP_001202786)",
+      "Drosophila melanogaster_(FBpp0078716)",
+      "Strongylocentrotus purpuratus_(XP_799345)"
+    ],
+    "aligned_unmatched_headers": [
+      "Branchiostoma_floridae-CACNB1(XP_002598413)"
+    ],
+    "raw_format_issue": "unexpected sequence characters: ' '",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 27,
+    "family_name": "CAP-GLY domain containing linker protein (CLIP)",
+    "published_count": 89,
+    "raw_records": 89,
+    "aligned_records": 89,
+    "exact_sequence_matches": 87,
+    "raw_unmatched_count": 2,
+    "aligned_unmatched_count": 2,
+    "raw_unmatched_headers": [
+      "Takifugu rubripes_CLIP3(ENSTRUP_28499)",
+      "Oryctolagus cuniculus_CLIP4(ENSOCUP_937)"
+    ],
+    "aligned_unmatched_headers": [
+      "Takifugu_rubripes-CLIP3(ENSTRUP_28499)",
+      "Oryctolagus_cuniculus-CLIP4(ENSOCUP_937)"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 26,
+    "family_name": "Carbohydrate sulfotransferases (CHST)",
+    "published_count": 84,
+    "raw_records": 84,
+    "aligned_records": 84,
+    "exact_sequence_matches": 83,
+    "raw_unmatched_count": 1,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [
+      "Macaca mulatta_CHST12(ENSMMUP_8533)"
+    ],
+    "aligned_unmatched_headers": [
+      "Macaca_mulatta-CHST12(ENSMMUP_8533)"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 240,
+    "family_name": "Ciliary Rootlet Coiled-Coil Proteins (CROCC)",
+    "published_count": 42,
+    "raw_records": 41,
+    "aligned_records": 42,
+    "exact_sequence_matches": 41,
+    "raw_unmatched_count": 0,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [],
+    "aligned_unmatched_headers": [
+      "Canis_familiaris_CROCC2"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 47,
+    "family_name": "Cyclin dependent kinases (CDK)",
+    "published_count": 183,
+    "raw_records": 182,
+    "aligned_records": 183,
+    "exact_sequence_matches": 181,
+    "raw_unmatched_count": 1,
+    "aligned_unmatched_count": 2,
+    "raw_unmatched_headers": [
+      "Oryzias latipes_CDK4(ENSORLP_19056)"
+    ],
+    "aligned_unmatched_headers": [
+      "Macaca_mulatta_(Macaque)CDK5(Chromosome_3:_188000421-188004499)",
+      "Oryzias_latipes_(Medaka)CDK4(Chromosome_5:_27846972-27856499)"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 69,
+    "family_name": "EYA transcriptional coactivator and phosphatases (EYA)",
+    "published_count": 62,
+    "raw_records": 62,
+    "aligned_records": 62,
+    "exact_sequence_matches": 60,
+    "raw_unmatched_count": 2,
+    "aligned_unmatched_count": 2,
+    "raw_unmatched_headers": [
+      "Gallus gallus_EYA1(ENSGALP_25135)",
+      "Tetraodon nigroviridis_EYA4(ENSTNIP_19421)"
+    ],
+    "aligned_unmatched_headers": [
+      "Gallus_gallus-EYA1(ENSGALP_25135)",
+      "Tetraodon_nigroviridis-EYA4(ENSTNIP_1..."
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 106,
+    "family_name": "Fibroblast growth factor family (FGF)",
+    "published_count": 37,
+    "raw_records": 39,
+    "aligned_records": 37,
+    "exact_sequence_matches": 37,
+    "raw_unmatched_count": 2,
+    "aligned_unmatched_count": 0,
+    "raw_unmatched_headers": [
+      "Bos taurus_FGF18(ENSBTAP_139)",
+      "Loxodontaafricana_FGF18(ENSLAFP_29010)"
+    ],
+    "aligned_unmatched_headers": [],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 28,
+    "family_name": "FKBP prolyl isomerases (FKBP)",
+    "published_count": 104,
+    "raw_records": 104,
+    "aligned_records": 107,
+    "exact_sequence_matches": 104,
+    "raw_unmatched_count": 0,
+    "aligned_unmatched_count": 3,
+    "raw_unmatched_headers": [],
+    "aligned_unmatched_headers": [
+      "Xenopus_tropicalis-FKBP14(ENSXETP_19715)",
+      "Ciona_intestinalis-FKBP10(ENSCINP_14412)",
+      "Gorilla_gorilla-FKBP9(ENSGGOP_7308)"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 29,
+    "family_name": "Formin-like (FMNL)",
+    "published_count": 50,
+    "raw_records": 50,
+    "aligned_records": 50,
+    "exact_sequence_matches": 45,
+    "raw_unmatched_count": 5,
+    "aligned_unmatched_count": 5,
+    "raw_unmatched_headers": [
+      "Rattus norvegicus_FMNL2(ENSRNOP_56145)",
+      "Bos taurus_FMNL2(ENSBTAP_38204)",
+      "Ornithorhynchus anatinus_FMNL3(ENSOANP_18841)",
+      "Pongo pygmaeus_FMNL1(ENSPPYP_9337)",
+      "Danio rerio_FMNL1b(ENSDARP_102181)"
+    ],
+    "aligned_unmatched_headers": [
+      "Rattus_norvegicus-FMNL2(ENSRNOP_56145)",
+      "Bos_taurus-FMNL2(ENSBTAP_38204)",
+      "Ornithorhynchus_anatinus-FMNL3(ENSOAN...",
+      "Pongo_pygmaeus-FMNL1(ENSPPYP_9337)",
+      "Danio_rerio-FMNL1(ENSDARP_102181)"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 15,
+    "family_name": "Heterogeneous nuclear ribonucleoprotein A (HNRNPA)",
+    "published_count": 37,
+    "raw_records": 37,
+    "aligned_records": 38,
+    "exact_sequence_matches": 37,
+    "raw_unmatched_count": 0,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [],
+    "aligned_unmatched_headers": [
+      "ZEBRAFISH_HNRNPA2B1"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 236,
+    "family_name": "HR lysine demethylase and nuclear receptor corepressor (HR)_(KDM3)",
+    "published_count": 45,
+    "raw_records": 45,
+    "aligned_records": 45,
+    "exact_sequence_matches": 44,
+    "raw_unmatched_count": 1,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [
+      "Mus musculus_KDM3B"
+    ],
+    "aligned_unmatched_headers": [
+      "Branchiostoma florida_JMJD1C"
+    ],
+    "raw_format_issue": "1 duplicate full headers",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 11,
+    "family_name": "IKAROS family zinc finger (IKZF)",
+    "published_count": 30,
+    "raw_records": 30,
+    "aligned_records": 30,
+    "exact_sequence_matches": 29,
+    "raw_unmatched_count": 1,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [
+      "Takifugu rubripes_IKZF4(ENSTRUP_30551)"
+    ],
+    "aligned_unmatched_headers": [
+      "Takifugu rubripes IKZF4"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 121,
+    "family_name": "Mitogen-activated protein kinases (MAPK)",
+    "published_count": 73,
+    "raw_records": 73,
+    "aligned_records": 73,
+    "exact_sequence_matches": 71,
+    "raw_unmatched_count": 2,
+    "aligned_unmatched_count": 2,
+    "raw_unmatched_headers": [
+      "Oryzias latipes_MAPK10(ENSORLP_7884)",
+      "Ciona intestinalis_(ENSCSAVP_5272)"
+    ],
+    "aligned_unmatched_headers": [
+      "Oryzias_latipes_MAPK10_a",
+      "Ciona_savignyi_MAPK14"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 16,
+    "family_name": "Nuclear factor (erythroid-derived) (NFE)",
+    "published_count": 51,
+    "raw_records": 51,
+    "aligned_records": 51,
+    "exact_sequence_matches": 50,
+    "raw_unmatched_count": 1,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [
+      "Equus caballus_NFE2L1"
+    ],
+    "aligned_unmatched_headers": [
+      "HORSE_NFE2L1"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 250,
+    "family_name": "Nuclear Receptor Binding SET domain protein (NSD)",
+    "published_count": 79,
+    "raw_records": 79,
+    "aligned_records": 79,
+    "exact_sequence_matches": 78,
+    "raw_unmatched_count": 1,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [
+      "Monodelphis domestica_NSD1\u00c2\u00a0(opossum)(ENSMODT00000006122.4)(F6T8D2)"
+    ],
+    "aligned_unmatched_headers": [
+      "Monodelphis_domestica_NSD1"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 17,
+    "family_name": "Oxysterol binding proteins (OSBP)",
+    "published_count": 55,
+    "raw_records": 54,
+    "aligned_records": 56,
+    "exact_sequence_matches": 54,
+    "raw_unmatched_count": 0,
+    "aligned_unmatched_count": 2,
+    "raw_unmatched_headers": [],
+    "aligned_unmatched_headers": [
+      "FUGU_OSBPL7(n)",
+      "Seaurchin_OSBPL(8)"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 35,
+    "family_name": "Pyruvate dehydrogenase kinase (PDK)",
+    "published_count": 67,
+    "raw_records": 67,
+    "aligned_records": 67,
+    "exact_sequence_matches": 66,
+    "raw_unmatched_count": 1,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [
+      "Monodelphis domestica_PDK2(ENSMODP_15067)"
+    ],
+    "aligned_unmatched_headers": [
+      "Monodelphis_domestica-PDK2(ENSMODP_15..."
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 68,
+    "family_name": "Receptor (G protein-coupled) activity modifying protein (RAMP)",
+    "published_count": 44,
+    "raw_records": 43,
+    "aligned_records": 44,
+    "exact_sequence_matches": 43,
+    "raw_unmatched_count": 0,
+    "aligned_unmatched_count": 1,
+    "raw_unmatched_headers": [],
+    "aligned_unmatched_headers": [
+      "Canis_familiaris-RAMP2(ENSCAFP_21815)"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 59,
+    "family_name": "Ring finger protein subfamily 1 (RNF)",
+    "published_count": 114,
+    "raw_records": 116,
+    "aligned_records": 114,
+    "exact_sequence_matches": 114,
+    "raw_unmatched_count": 2,
+    "aligned_unmatched_count": 0,
+    "raw_unmatched_headers": [
+      "Rattus norvegicus_RNF13(ENSRNOP_60441)",
+      "Rattus norvegicus_RNF43(ENSRNOP_10296)"
+    ],
+    "aligned_unmatched_headers": [],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 202,
+    "family_name": "Ring finger protein subfamily 2 (RNF)",
+    "published_count": 33,
+    "raw_records": 34,
+    "aligned_records": 33,
+    "exact_sequence_matches": 25,
+    "raw_unmatched_count": 9,
+    "aligned_unmatched_count": 8,
+    "raw_unmatched_headers": [
+      "Ciona intestinalis RNF183",
+      "Branchiostoma floridae RNF183",
+      "Ciona intestinalis RNF223",
+      "Ciona savignyi RNF223",
+      "Caenorhabditis elegans RNF223",
+      "Ciona savignyi RNF225",
+      "Branchiostoma floridae RNF225",
+      "Caenorhabditis elegans RNF225",
+      "Takifugu rubripes RNF183 b"
+    ],
+    "aligned_unmatched_headers": [
+      "Anolis_carolinensis_RNF183",
+      "Gasterosteus_aculeatus_RNF223_a",
+      "Gasterosteus_aculeatus_RNF223_b",
+      "Danio_rerio_RNF225_a",
+      "Takifugu_rubripes_RNF225_b",
+      "Gasterosteus_aculeatus_RNF225_b",
+      "Oryzias_latipes_RNF225_a",
+      "Oryzias_latipes_RNF225_b"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 20,
+    "family_name": "Secernin (SCRN)",
+    "published_count": 52,
+    "raw_records": 52,
+    "aligned_records": 53,
+    "exact_sequence_matches": 50,
+    "raw_unmatched_count": 2,
+    "aligned_unmatched_count": 3,
+    "raw_unmatched_headers": [
+      "Dasypus novemcinctus_SCRN1",
+      "Erinaceus europaeus_SCRN3"
+    ],
+    "aligned_unmatched_headers": [
+      "ARMADILLO_SCRN1",
+      "FROG_SCRN2",
+      "HEDGEHOG_SCRN3"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 126,
+    "family_name": "Solute carrier family 57, NIPA-like magnesium transporters (SLC57, NIPA)",
+    "published_count": 68,
+    "raw_records": 68,
+    "aligned_records": 66,
+    "exact_sequence_matches": 66,
+    "raw_unmatched_count": 2,
+    "aligned_unmatched_count": 0,
+    "raw_unmatched_headers": [
+      "Xenopus tropicalis_NIPAL3(ENSXETP_8479)",
+      "Branchiostoma floridae_(XP_780942)"
+    ],
+    "aligned_unmatched_headers": [],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 21,
+    "family_name": "Sorting nexins subfamily 1 (SNX)",
+    "published_count": 23,
+    "raw_records": 23,
+    "aligned_records": 23,
+    "exact_sequence_matches": 21,
+    "raw_unmatched_count": 2,
+    "aligned_unmatched_count": 2,
+    "raw_unmatched_headers": [
+      "Danio rerio_SNX11",
+      "Tetraodon nigroviridis_SNX10"
+    ],
+    "aligned_unmatched_headers": [
+      "TETRAODON_SNX10",
+      "ZEBRAFISH_SNX11"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 41,
+    "family_name": "Tensin (TNS)",
+    "published_count": 74,
+    "raw_records": 74,
+    "aligned_records": 74,
+    "exact_sequence_matches": 71,
+    "raw_unmatched_count": 3,
+    "aligned_unmatched_count": 3,
+    "raw_unmatched_headers": [
+      "Oryctolagus cuniculus_TNS1(ENSOCUP_1696)",
+      "Tetraodon nigroviridis_TNS1a(ENSTNIP_11715)",
+      "Oryzias latipes_TNS3(ENSORLP_16169)"
+    ],
+    "aligned_unmatched_headers": [
+      "Oryctolagus_cuniculus-TNS1(ENSOCUP_1696)",
+      "Tetraodon_nigroviridis-TNS1(ENSTNIP_11715)",
+      "Oryzias_latipes-TNS3(ENSORLP_16169)"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 191,
+    "family_name": "Tumor necrosis factor superfamily (TNFSF)",
+    "published_count": 51,
+    "raw_records": 51,
+    "aligned_records": 51,
+    "exact_sequence_matches": 49,
+    "raw_unmatched_count": 2,
+    "aligned_unmatched_count": 2,
+    "raw_unmatched_headers": [
+      "Pelodiscus sinensis_TNF(ENSPSIP_5437)",
+      "Monodelphis domestica_TNFSF15(ENSMODP_24427)"
+    ],
+    "aligned_unmatched_headers": [
+      "Pelodiscus_sinensis_TNF",
+      "Monodelphis_domestica_TNFSF15"
+    ],
+    "raw_format_issue": "unexpected sequence characters: '_'",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 22,
+    "family_name": "WAS_WASL interacting protein family (WIPF)",
+    "published_count": 31,
+    "raw_records": 31,
+    "aligned_records": 30,
+    "exact_sequence_matches": 28,
+    "raw_unmatched_count": 3,
+    "aligned_unmatched_count": 2,
+    "raw_unmatched_headers": [
+      "Strongylocentrotus purpuratus_(XP_001195725)",
+      "Myotis lucifugus_WIPF2",
+      "Gasterosteus aculeatus_WIPF3"
+    ],
+    "aligned_unmatched_headers": [
+      "Microbat_WIPF3",
+      "Stickleback_WIPF3"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  },
+  {
+    "pahg_id": 235,
+    "family_name": "WDR domain (WDR)",
+    "published_count": 57,
+    "raw_records": 57,
+    "aligned_records": 57,
+    "exact_sequence_matches": 48,
+    "raw_unmatched_count": 9,
+    "aligned_unmatched_count": 9,
+    "raw_unmatched_headers": [
+      "Neandertals_WDR62",
+      "Denisovans_WDR62",
+      "Pan paniscus_WDR62",
+      "Pan troglodytes_WDR62",
+      "Gorilla gorilla_WDR62",
+      "Myotis dividii_WDR62",
+      "Pelodiscus sinensis_WDR62",
+      "Xenopus tropicalis_WDR62",
+      "Gorilla gorilla_MAPKBP1"
+    ],
+    "aligned_unmatched_headers": [
+      "Branchiostoma floridae_XP_2613182",
+      "Saccoglossus kowalwvskii_XP_2734815",
+      "Drosophila melanogaster_FBpp0305221",
+      "Anopheles gambiae_XP_320082",
+      "Amphimedon queenslandica_XP_3384409",
+      "Drosophila melanogaster_FBpp0076646",
+      "Apis mellifera_XP_624617",
+      "Anopheles gambiae_XP_315945",
+      "Amphimedon quaeenslandica_XP_3385435"
+    ],
+    "raw_format_issue": "",
+    "alignment_format_issue": ""
+  }
+]
