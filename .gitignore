@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+project_tools/node_modules/
+inventory/*.inspect.ndjson
+inventory/preview_*.png

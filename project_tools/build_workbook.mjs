@@ -34,6 +34,12 @@ function addSheet(name, title, subtitle, headers, rows, widths, opt={}) {
   }
   widths.forEach((w,j)=>ws.getRangeByIndexes(0,j,matrix.length+4,1).format.columnWidth=w);
   ws.freezePanes.freezeRows(5);
+  if(opt.tableName && rows.length){
+    let index=n, column='';
+    while(index){index--;column=String.fromCharCode(65+(index%26))+column;index=Math.floor(index/26);}
+    const table=ws.tables.add(`A5:${column}${5+rows.length}`,true,opt.tableName);
+    table.showFilterButton=true;
+  }
   return ws;
 }
 
@@ -48,7 +54,7 @@ const master=addSheet('Master inventory','PAHG master inventory',
   '221 official PAHG families  •  3 with your tree files  •  15 with GitHub sequence candidates  •  203 catalogue only',
   masterHeaders,masterRows,
   [11,19,43,13,12,17,19,39,40,14,43,16,19,21,17,15,18,18,16,45,50,70,64,45],
-  {note:'IDs come from PAHG family links. All six supplied Newick trees parse and match alignment labels; session review remains.',rowHeight:37});
+  {note:'Six exact NEXUS tree copies passed round-trip checks. COL NJ has one negative branch to review; MEGA tree comparison remains.',rowHeight:37,tableName:'PAHGMaster'});
 for(let i=0;i<data.master.length;i++){
   const source=data.master[i]['Research file source'];
   const fill=source==='Your files'?C.green:source==='PAHG GitHub'?C.amber:C.gray;
@@ -58,21 +64,27 @@ for(let i=0;i<data.master.length;i++){
 
 const idBySymbol=new Map(data.master.filter(x=>x['Symbol / file key']).map(x=>[x['Symbol / file key'],x['PAHG ID']]));
 const validationByKey=new Map(data.validations.map(x=>[x.family+'|'+x.method,x]));
-const treeHeaders=['PAHG ID','Family','Method','MEGA session','Source alignment','Original Newick','Working Newick','Tree leaves','Alignment records','Alignment sites','Equal length','Tree NEXUS','Parse check','Label check','Source comparison','Model','Bootstrap runs','Rates among sites','Gaps / missing data','MEGA version','Release status'];
+const conversionByKey=new Map(data.conversions.map(x=>[x.family+'|'+x.method,x]));
+const treeHeaders=['PAHG ID','Family','Method','MEGA session','Source alignment','Original Newick','Working Newick','Tree leaves','Alignment records','Alignment sites','Equal length','Tree NEXUS file','NEXUS round trip','Parse check','Label check','Branch review','MEGA metadata','MEGA tree comparison','Model','Bootstrap runs','Rates among sites','Gaps / missing data','MEGA version','Release status'];
 const treeRows=data.trees.map(t=>{
   const v=validationByKey.get(t.family+'|'+t.method);
+  const c=conversionByKey.get(t.family+'|'+t.method);
   return [
   idBySymbol.get(t.family),t.family,t.method,t.source_session,t.alignment_fasta,t.original_newick,t.working_newick,
   v?.tree_leaves??'',v?.alignment_records??'',v?.alignment_length??'',v?.alignment_equal_length?'YES':'NO',
-  t.nexus_tree||'Missing',v?.parse_status||t.parse_validation,v?.label_status||t.label_validation,t.source_comparison,
+  c?.nexus_tree?.split('/').at(-1)||'Missing',c?.nexus_roundtrip||'Pending',v?.parse_status||t.parse_validation,v?.label_status||t.label_validation,
+  c?.negative_branch_count?`${c.negative_branch_count} negative branch`:'None found',c?.session_metadata||'Pending',c?.session_tree_comparison||'PENDING',
   t.substitution_model||'Unknown',t.bootstrap_replicates?Number(t.bootstrap_replicates):'Unknown',
   t.rates_among_sites||'Unknown',t.gaps_missing_data||'Unknown',t.mega_version||'Unknown',t.release_status
   ];
 });
-addSheet('Tree files','Supplied tree records',
-  'Six Newick trees from three supplied families; all parse and match their alignment tip labels.',
-  treeHeaders,treeRows,[11,13,12,38,40,44,34,15,18,16,16,19,16,16,20,22,19,24,23,19,18],
-  {note:'The supplied NEXUS files are alignments. Tree NEXUS conversion and MEGA session comparison remain.',rowHeight:45});
+const treeSheet=addSheet('Tree files','Supplied tree records',
+  'Six exact NEXUS tree copies parse and match the Newick trees; one negative NJ branch requires review.',
+  treeHeaders,treeRows,[11,13,12,38,40,44,34,15,18,16,16,38,19,16,16,23,19,23,22,19,24,23,19,18],
+  {note:'The original supplied .nex files are alignments. Separate NEXUS tree files are in working_copies; MEGA topology comparison remains.',rowHeight:45,tableName:'PAHGTrees'});
+data.trees.forEach((t,i)=>{
+  if(conversionByKey.get(t.family+'|'+t.method)?.negative_branch_count) treeSheet.getRangeByIndexes(5+i,15,1,1).format.fill=C.amber;
+});
 
 const onlineHeaders=['PAHG ID','File key','PAHG family name','Raw FASTA','Raw records','Alignment FASTA','Aligned records','Same record count','Equal alignment lengths','Review note','Raw URL','Alignment URL','Raw SHA256','Alignment SHA256'];
 const onlineRows=data.online.map(o=>{
@@ -84,18 +96,18 @@ const onlineRows=data.online.map(o=>{
 addSheet('Online data','PAHG GitHub file candidates',
   '15 family matches from PAHG public GitHub at a pinned commit; files do not yet establish complete tree datasets.',
   onlineHeaders,onlineRows,[11,14,43,42,15,43,17,21,22,45,68,68,67,67],
-  {note:'Record counts may differ because the public raw and aligned files can represent different subsets; investigate before pairing.',rowHeight:44});
+  {note:'Record counts may differ because the public raw and aligned files can represent different subsets; investigate before pairing.',rowHeight:44,tableName:'PAHGOnline'});
 
 const issueHeaders=['PAHG ID','Family','Method','Issue type','What needs attention','Status'];
 const issueRows=data.issues.map(o=>[idBySymbol.get(o.family)||'',o.family,o.method||'All',o.severity,o.issue,o.status]);
 addSheet('Review log','Review and missing work',
   `${issueRows.length} specific issues and gaps recorded for the files already located.`,
-  issueHeaders,issueRows,[11,15,13,15,95,25],{rowHeight:42});
+  issueHeaders,issueRows,[11,15,13,15,95,25],{rowHeight:42,tableName:'PAHGReview'});
 
 const sourceRows=data.sources.map(s=>[s.source_path,s.snapshot_path,Number(s.bytes),s.sha256]);
 addSheet('Original files','Original file manifest',
   `${sourceRows.length} source items recorded in the earlier preservation snapshot. SHA256 identifies each item.`,
-  ['Supplied file','Preserved copy','Bytes','SHA256'],sourceRows,[70,70,14,70],{rowHeight:38});
+  ['Supplied file','Preserved copy','Bytes','SHA256'],sourceRows,[70,70,14,70],{rowHeight:38,tableName:'PAHGOriginals'});
 
 const notes=[
   ['221 PAHG families','Official family table captured on 2026-11-15','https://www.pahgncb.com/genomedb/public/genefamilies'],
@@ -104,8 +116,9 @@ const notes=[
   ['203 catalogue-only families','Official names/metadata captured; sequence/alignment/tree source files not located in this project','PAHG family table'],
   ['PAHG sequences','The published count on the PAHG table, separate from local FASTA record counts','PAHG family table'],
   ['Newick file checks','Each supplied tree parses and its leaves match the alignment labels after spaces/underscores are normalized','Tree files sheet'],
-  ['Tree NEXUS','The supplied NEXUS files contain alignment blocks, so tree NEXUS exports are missing','Review log'],
-  ['Next research step','Create exact NEXUS exports, compare against MEGA sessions, then retrieve original tree sources for remaining families','Research workflow'],
+  ['Tree NEXUS','Six separate NEXUS tree files wrap the exact supplied Newick expressions; all pass independent parser round trips','Tree files sheet'],
+  ['Negative branch','The COL NJ tree has one small negative branch length, preserved exactly and flagged for scientific review','Review log'],
+  ['Next research step','Compare the six trees with the original MEGA analyses, then retrieve source trees for remaining families','Research workflow'],
 ];
 addSheet('How to read','How to use this inventory',
   'Family identity, file availability and scientific validation are different questions; this workbook records each separately.',

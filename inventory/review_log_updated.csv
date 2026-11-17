@@ -1,12 +1,12 @@
 ﻿family,method,severity,issue,status
 SLC4,,review,Confirm PAHG family ID; folder number is only a candidate.,resolved: official PAHG page matched
-SLC4,,gap,Supplied NEXUS is an alignment; NEXUS tree files remain to be created.,open
+SLC4,,gap,"Supplied NEXUS is an alignment; separate, checked ML and NJ NEXUS tree files were created in working_copies.",resolved: tree NEXUS created
 SLC4,ML,naming,Original Newick has double .nwk extension; working copy has standard name.,working copy named
 SLC4,NJ,naming,Original Newick has double .nwk extension; working copy has standard name.,working copy named
 COL,,review,Confirm PAHG family ID; folder number is only a candidate.,resolved: official PAHG page matched
-COL,,gap,Supplied NEXUS is an alignment; NEXUS tree files remain to be created.,open
+COL,,gap,"Supplied NEXUS is an alignment; separate, checked ML and NJ NEXUS tree files were created in working_copies.",resolved: tree NEXUS created
 ERBB,,review,Confirm PAHG family ID; folder number is only a candidate.,resolved: official PAHG page matched
-ERBB,,gap,Supplied NEXUS is an alignment; NEXUS tree files remain to be created.,open
+ERBB,,gap,"Supplied NEXUS is an alignment; separate, checked ML and NJ NEXUS tree files were created in working_copies.",resolved: tree NEXUS created
 ABLIM,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
 ABLIM,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
 ABLIM,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
@@ -48,3 +48,4 @@ S1PR,,gap,No matching raw family FASTA file was found in the repository snapshot
 S1PR,,review,Alignment FASTA records have different lengths; inspect alignment structure and suitability.,open
 WDR62,,gap,Obtain source ML/NJ trees and verify that these FASTA files correspond to the PAHG analysis.,open
 WDR62,,review,Raw FASTA and alignment FASTA have different sequence-record counts; confirm they belong to the same analysis dataset.,open
+COL,NJ,review,Original NJ tree has a negative branch length (-0.000250018030820602) for Mus_musculus_COL3A1; preserved exactly in NEXUS. Review in MEGA and document interpretation.,open

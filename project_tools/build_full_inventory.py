@@ -48,6 +48,9 @@ def main() -> None:
     online = {r["symbol"]: r for r in csv_rows("online_candidates.csv")}
     local = {PAHG_ID_BY_SYMBOL[r["symbol"]]: r for r in families}
     validations = json.loads((INV / "tree_validation.json").read_text(encoding="utf-8"))
+    conversions = json.loads((INV / "nexus_conversion.json").read_text(encoding="utf-8"))
+    conversion_by_key = {(r["family"], r["method"]): r for r in conversions}
+    assert len(conversions) == 6 and all(r["nexus_roundtrip"] == "PASS" for r in conversions)
     validation_by_family = {r["family"]: r for r in validations if r["method"] == "ML"}
     assert len(validations) == 6 and all(v["parse_status"] == v["label_status"] == "PASS" for v in validations)
     assert len(local) == len(families) == 18
@@ -59,12 +62,14 @@ def main() -> None:
         match = local.get(fid)
         candidate = online.get(match["symbol"]) if match else None
         validation = validation_by_family.get(match["symbol"]) if match else None
+        converted = [conversion_by_key[(match["symbol"], method)] for method in ("ML", "NJ")] if validation else []
+        negative = sum(r["negative_branch_count"] for r in converted)
         source = "Your files" if match and match["source_type"] == "User supplied" else "PAHG GitHub" if match else "PAHG catalogue"
         raw = match["raw_fasta"] if match else ""
         aligned = match["alignment_fasta"] if match else ""
         if source == "Your files":
-            status = "Newick file checks pass; NEXUS missing"
-            next_step = "Create exact NEXUS trees; review against MEGA sessions"
+            status = "NEXUS round trip passes; branch review" if negative else "NEXUS round trip passes; MEGA review pending"
+            next_step = "Review negative COL NJ branch; compare MEGA tree" if negative else "Compare tree with original MEGA analysis"
         elif source == "PAHG GitHub":
             status = "Sequence files only; trees missing"
             next_step = "Verify file pairing and locate original ML/NJ trees"
@@ -90,8 +95,8 @@ def main() -> None:
             "Tree leaves": validation["tree_leaves"] if validation else "",
             "ML Newick": "File checks pass" if validation else "Missing",
             "NJ Newick": "File checks pass" if validation else "Missing",
-            "Tree NEXUS": "Missing",
-            "Tree validation": "Parse + labels pass; session review pending" if validation else "No tree to validate",
+            "Tree NEXUS": "ML + NJ checked" if converted else "Missing",
+            "Tree validation": "Round trip + labels pass; MEGA tree pending" if converted else "No tree to validate",
             "Inventory status": status,
             "Next action": next_step,
             "PAHG family page": page["href"],
@@ -108,6 +113,8 @@ def main() -> None:
         "catalogue_only": sum(r["Research file source"] == "PAHG catalogue" for r in out),
         "recorded_newick_trees": 6,
         "parse_and_label_pass_trees": 6,
+        "nexus_roundtrip_pass_trees": 6,
+        "negative_branch_trees_for_review": sum(r["negative_branch_count"] > 0 for r in conversions),
         "session_comparison_complete_trees": 0,
         "source": capture["source"],
         "retrieved": capture["retrieved"],
@@ -122,6 +129,12 @@ def main() -> None:
         elif issue["family"] == "COL_ALPHA" and issue["issue"] == "Possible overlap with supplied COL family":
             issue["issue"] = "PAHG lists collagen alpha (ID 92) separately from fibrillar collagens (ID 2)."
             issue["status"] = "resolved: distinct PAHG entries"
+        elif issue["issue"].startswith("Supplied NEXUS is an alignment"):
+            issue["issue"] = "Supplied NEXUS is an alignment; separate, checked ML and NJ NEXUS tree files were created in working_copies."
+            issue["status"] = "resolved: tree NEXUS created"
+    issues.append({"family": "COL", "method": "NJ", "severity": "review",
+                   "issue": "Original NJ tree has a negative branch length (-0.000250018030820602) for Mus_musculus_COL3A1; preserved exactly in NEXUS. Review in MEGA and document interpretation.",
+                   "status": "open"})
     online_review = csv_rows("online_candidates.csv")
     for candidate in online_review:
         if candidate["symbol"] == "COL_ALPHA":
@@ -132,6 +145,7 @@ def main() -> None:
         "master": out,
         "trees": csv_rows("trees.csv"),
         "validations": validations,
+        "conversions": conversions,
         "online": online_review,
         "issues": issues,
         "sources": csv_rows("source_manifest.csv"),
